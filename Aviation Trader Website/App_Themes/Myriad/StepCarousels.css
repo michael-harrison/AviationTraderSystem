@@ -1,0 +1,48 @@
+﻿.stepcarousel{
+	position: relative; /*leave this value alone*/
+	background-color: white;
+	border-top: 1px solid #c0c0c0;
+	margin-top:10px;
+	overflow-x:hidden; /*leave this value alone*/
+	overflow-y: visible;
+}
+
+.stepcarousel .belt{
+	position: absolute; /*leave this value alone*/
+	overflow: hidden; /*leave this value alone*/
+	background:white;
+	left: 5px;
+	top: 0px;
+}
+
+.stepcarousel .panel{
+	float: left; /*leave this value alone*/
+	overflow: hidden; /*clip content that go outside dimensions of holding panel DIV*/
+	margin: 5px; /*margin around each panel*/
+}
+
+.stepcarousel2{
+	position: relative; /*leave this value alone*/
+	background-color: white;
+	margin-top:0px;
+	overflow-x:hidden; /*leave this value alone*/
+	overflow-y: visible;
+}
+
+.stepcarousel2 .belt{
+	position: absolute; /*leave this value alone*/
+	overflow: hidden; /*leave this value alone*/
+	background:#eaeaea;
+	left: 5px;
+	top: 0px;
+}
+
+.stepcarousel2 .panel{
+	float: left; /*leave this value alone*/
+	overflow: hidden; /*clip content that go outside dimensions of holding panel DIV*/
+	margin: 5px; /*margin around each panel*/
+	width:180px;
+	height:135px;
+	background:white;
+	border:solid 1px #00ace2;
+}

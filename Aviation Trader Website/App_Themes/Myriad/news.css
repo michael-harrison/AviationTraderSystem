@@ -1,0 +1,106 @@
+﻿.news 
+{
+	width:178px;
+	margin-top:10px;
+	border: solid 1px #c0c0c0;
+	background: white;
+	border-collapse:collapse;
+}
+	
+	.rotatortitle
+{
+	font-size:14px;
+	font-weight:bold;
+	color: #1046b6;
+	text-align:center;
+	background:#eaeaea;
+	height:30px;
+	border-bottom:solid 1px #c0c0c0;
+}
+
+
+.rotatorhead
+{
+	font-size:12px;
+	font-weight:bold;
+	border-top:solid 1px #c0c0c0;
+	height:30px;
+}
+
+.rotatorhead a:hover
+{
+	font-size:12px;
+	font-weight:bold;
+	Color: #505050;
+}
+
+.rotatorhead a
+{
+	font-size:12px;
+	font-weight:bold;
+	Color: #1046b6;
+	text-decoration:none;
+}
+
+.rotatorintro
+{
+	font-size:12px;
+	color:#404040
+}
+
+
+.rotatorpic
+{
+float:right;
+width:75px;
+margin-left:3px;
+	
+}
+
+
+
+.storyhead
+{
+	font-size:16px;
+	font-weight:bold;
+	Color: #1046b6;
+	line-height:55px;
+}
+
+.storyintro
+{
+	font-size:14px;
+	font-weight:bold;
+	color:#404040;
+}
+
+.storybody
+{
+	font-size:12px;
+	color:#404040
+}
+
+.storypicpanel
+{
+	float:right;
+	width:250px;
+	background:#eaeaea;
+	margin-left:10px;
+}
+
+.storypic
+{
+	
+	width:250px;
+}
+
+
+.storypiccaption
+{
+	font-size:12px;
+	color:#404040;
+}
+	
+
+
+

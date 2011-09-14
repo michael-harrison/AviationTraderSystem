@@ -1,0 +1,20 @@
+ <span class="storybody">Aviation Trader is available by subscription at the rates indicated below, which include 12 issues (1 year) and postage if applicable.<br />
+                                    <br />
+                                    Simply register and follow the prompts and we will activate your subscription. Prices include GST for subscriptions within Australia.</span>
+                                <br />
+                                <br />
+                                <span class="storyhead">Subscription Rates</span><br />
+                                <br />
+                                <span class="storybody">Print Edition</span>
+                                <ul>
+                                    <li><span class="storybody">Australia: (surface) $45.00 (inc GST)</span></li>
+                                    <li><span class="storybody">Asia Pacific: (airmail) $80.00</span></li>
+                                    <li><span class="storybody">Rest Of The World: (airmail) $112.00</span></li>
+                                </ul>
+                                <br />
+                                <br />
+                                <span class="storybody">Digital 'Page View' Edition</span>
+                                <ul>
+                                    <li><span class="storybody">Australia: $45.00 (incl GST)</span></li>
+                                    <li><span class="storybody">International: $41.00</span></li>
+                                </ul>

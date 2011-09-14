@@ -1,0 +1,62 @@
+ <tr>
+                            <td>
+                                <span class="storyhead">Page Layouts</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <span class="storybody">Aviation Trader is a free format tabloid style publication. Because we accept advertising in most sizes, our final layout is not determined until late in the weekend following each deadline. We are therefore unable to confirm exact locations for sections or general display advertisements until a final layout is completed. If you are (or propose to be) a regular advertiser with a high anticipated spend we would be happy to consider a fixed location on a 'space available' basis.
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <span class="storyhead">Corporate Goals</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <span class="storyintro">Our corporate goals are:</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <ul>
+                                    <li><span class="storybody">To increase strategic market awareness</span></li>
+                                    <li><span class="storybody">To develop new markets and customer relationships</span></li>
+                                    <li><span class="storybody">To develop and maintain a quality customer relationship program</span></li>
+                                    <li><span class="storybody">To maximise product value</span></li>
+                                    <li><span class="storybody">To maximise cost effectiveness</span></li>
+                                    <li><span class="storybody">To pursue excellence in marketing practices</span></li>
+                                    <li><span class="storybody">To pursue excellence in business management practices</span></li>
+                                    </ul>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <span class="storyhead">Current Circulation</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <span class="storyintro">Aviation Trader is currently circulated monthly to:</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <ul>
+                                    <li><span class="storybody">All owners of aircraft on the Australian Register</span></li>
+                                    <li><span class="storybody">All Air Operator Certificate Holders and All Certificate of Approval Holders</span></li>
+                                    <li><span class="storybody">2000 Owners of aircraft on the New Zealand Register</span></li>
+                                    <li><span class="storybody">All air operators and all maintenance, training and design organisations on the New Zealand Register</span></li>
+                                    <li><span class="storybody">The Newsagency Network Australia Wide (5,000)</span></li>
+                                    <li><span class="storybody">450 third party subscribers</span></li>
+                                    <li><span class="storybody">Selected Pilot Shops nationwide</span></li>
+                                    <li><span class="storybody">Senior executives in a growing number of government and non-government enterprises</span></li>
+                                 </ul>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <span class="storyintro">Total circulation is 16,500, and CAB audited circulation (September 2009) is 13,303</span>
+                            </td>
+                        </tr>

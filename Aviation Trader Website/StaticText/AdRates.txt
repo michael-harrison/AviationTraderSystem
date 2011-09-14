@@ -1,0 +1,14 @@
+ <tr>
+                            <td>
+                                <span class="storyhead">Advertising Rates 2010</span>
+                            </td>
+                        </tr>
+                        
+
+<tr>
+                            <td>
+                                <a href="../statictext/ATRates2010_11.pdf" target="_blank">View complete rate sheet in pdf format</a>
+                                    <br />
+                                    <br />
+                            </td>
+                        </tr>

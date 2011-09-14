@@ -1,0 +1,25 @@
+<tr>
+                            <td>
+                                <span class="storyhead">Advertising Options</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <span class="storyintro">Classified ads
+                                    <br />
+                                    <br />
+                                </span><span class="storybody">Classified ads are "line" ads which are listed by category in the Classified section of the print copy. Ads are set using Helvetica 9 pt, with a line length of 6 cm. Limited formatting is available on request. A colour photograph can also be included.
+                                    <br />
+                                    <br /></span>
+                                    <span class="storyintro">Display ads
+                                        <br />
+                                        <br />
+                                    </span><span class="storybody">Display ads are 'boxed' ads independently placed throughout the print publication. We can include photographs, logos or other graphics and present your display ad in mono (black and white), single colour or in full colour.
+                                        <br />
+                                        <br /></span>
+                                        
+                                        </span><span class="storybody">Every classified ad or display ad booked in Aviation Trader automatically appears on our website for duration of the printed product.
+                                            <br />
+                                            <br /></span>
+                            </td>
+                        </tr>

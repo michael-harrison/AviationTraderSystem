@@ -1,0 +1,37 @@
+﻿ <tr>
+                            <td>
+                                <span class="storyhead">Our Web Offer</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <span class="storybody">Thank you for visiting our website. A key objective in our current strategic plan is to maintain the relevance, quality and value of our print publication whilst continuing to invest significantly in digital publication and information delivery resources consistent with the need to guarantee information currency and global reach for our advertisers in a cost effective and seamless service environment. We trust that you see evidence of this fundamental commitment when you begin to explore and use this website. 
+                                
+                                <br />
+                                    <br />
+
+At Aviation Trader we also strongly believe in the concept of integrated marketing that is, using multiple channels to drive product sales. Consistent with this belief we have, since 1997, uploaded all ads appearing in our print edition to the internet free of charge thus providing print advertisers with an opportunity to participate in the global aviation marketplace. Our latest investment in web technology also allows us to present your print ad in a more sophisticated form on the internet and also provides you with opportunities to enhance your ‘on-line’ listing. Our production team would be pleased to guide you the various listing enhancement options available to you.
+
+<br />
+                                    <br />
+
+We also continue to invest in web technology in an effort to provide new ways for you to connect, and manage your relationship, with us. You can you now lodge your print ad on-line, self manage your ad or ads and communicate directly with our production team. Registering as an advertiser opens access to a dedicated ad management space that will allow you to store and recall your ads, view a proof of you’re current ad, re run a previous ad, request changes to an ad, view the cost of an ad and approve an ad. 
+
+<br />
+                                    <br />
+
+As we know, developments in technology generally lead to new opportunities – new and faster ways of doing business, new value propositions, better experiences. Maintaining an awareness of emerging technologies particularly as they relate to the web and investing in technologies that provide us with better ways to connect and interact with our clients will always remain a high agenda item for us. You can be assured that we will pursue any advance that represents value or worth without compromising security or integrity and ensure that it is embedded in our value proposition.
+<br />
+                                    <br />
+
+You are viewing a fourth generation website. This piece represents stage one of a three stage implementation program. We are in the early development phase of stage two which will bring additional enhancements and functionality including amongst other things cutting edge connectivity. We will focus on the concept of interactivity in stage 3 which we hope will bring a new meaning to the word ‘client’.
+<br />
+                                    <br />
+
+As with all client focused teams we welcome your feedback. Open communication lines are generally the most effective and maintaining effective communication for us is an absolute priority. Please feel free to offer any information, advice, recommendation, acknowledgement or criticism at any time. We will willingly accept it and do our best to use it to improve the way we conduct our business.
+
+                                    <br />
+                                    <br />
+                            </td>
+                        </tr>
+

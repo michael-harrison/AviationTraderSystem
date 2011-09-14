@@ -1,0 +1,14 @@
+ <tr>
+                            <td>
+                                <span class="storyhead">Advertising Material Specs</span>
+                            </td>
+                        </tr>
+                        
+
+<tr>
+                            <td>
+                                <a href="../statictext/AdSpec_Portrait.pdf" target="_blank">View material specs in pdf format</a>
+                                    <br />
+                                    <br />
+                            </td>
+                        </tr>

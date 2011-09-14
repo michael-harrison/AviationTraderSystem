@@ -1,0 +1,24 @@
+  <tr>
+                            <td>
+                                <span class="storyhead">Welcome to Aviation Trader</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                
+                                </span><span class="storybody">Welcome and thank you for your interest in advertising in our unique publication. Aviation Trader is circulated monthly in print form to all aircraft owners on the 'VH' register (Australia), most aircraft owners on the 'ZK' register (New Zealand), all Certificate of Approval holders and Air Operator Certificate holders in Australia and New Zealand (including Aero Clubs and Flight Training Organisations) and a growing number of dedicated subscribers worldwide. 
+                                
+                                In addition, we circulate to over 950 selected newsagencies Australia wide for retail sale. As you can see we work hard to ensure that our circulation is genuinely targeted to attract maximum response. 
+                                    <br />
+                                    <br />
+                                    In addition to our print publication we have invested significantly in digital publication and the internet to ensure that coverage for our advertisers is genuinely global and also to ensure that we offer 'mediums of choice' that meet the expectations of our readers and those with an interest in our publication. Consistent with this philosophy and in addition to placement in our print edition, your ad will appear in our digital 'page view' edition and also loaded to our searchable web database immediately following the publication of the issue of your choice. This is a free service and your ad will remain live on line for 30 days. Should you wish to forward book or renew your advertisement in the following or any subsequent print edition this free offer will be renewed for the relevant month(s) of publication. 
+                                    
+                                    <br />
+                                    <br />Have we provided you with enough information and are you ready to proceed with your ad lodgement? If so please select the register tab at the top. If you would like additional information or you have a question or concern, free call 1800 025 776 - our dedicated team is available between the hours of 8AM and 6PM EDST Monday to Friday to assist with your enquiry. An 'after hours' response and call back service is also available. 
+                                
+                                    <br />
+                                    <br />
+                                    We thank you for visiting this page and look forward to welcoming you aboard and working with you as a valued Aviation Trader advertising client.</span>
+                                
+                            </td>
+                        </tr>

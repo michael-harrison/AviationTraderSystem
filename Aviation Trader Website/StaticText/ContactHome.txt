@@ -1,0 +1,49 @@
+   <tr>
+                            <td>
+                                <span class="storyhead">Aviation Trader</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <table>
+                                    <tr>
+                                        <td valign="top" class="contenttext left" style="width: 150px">
+                                            Postal Address:
+                                        </td>
+                                        <td class="contentfield">
+                                            PO Box 266<br />
+                                            Lismore NSW 2480
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td valign="top" class="contenttext left" style="width: 200px">
+                                            Phone:
+                                        </td>
+                                        <td class="contentfield">
+                                            +61 2 6622 2133
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td valign="top" class="contenttext left" style="width: 200px">
+                                            Fax:
+                                        </td>
+                                        <td class="contentfield">
+                                            +61 2 6622 2123
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td valign="top" class="contenttext left" style="width: 200px">
+                                            Advertising email:
+                                        </td>
+                                        <td class="contentfield">
+                                            <a href="mailto:ads@aviationtrader.com.au">ads@aviationtrader.com.au</a>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td valign="top" class="contenttext left" style="width: 200px">
+                                            Subscription email:
+                                        </td>
+                                        <td class="contentfield">
+                                            <a href="mailto:subscriptions@aviationtrader.com.au">subscriptions@aviationtrader.com.au</a>
+                                        </td>
+                                    </tr>

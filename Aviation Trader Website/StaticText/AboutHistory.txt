@@ -1,0 +1,40 @@
+<tr>
+                            <td>
+                                <span class="storyhead">The History of Aviation Trader</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                               
+                                <span class="storyintro">Aviation Trader was launched in 1988 to fill the need for an effective general aviation advertising medium.
+                                    <br />
+                                    <br />
+                                </span><span class="storybody">The majority of general aviation advertising was carried in the AOPA (Aircraft Owners and Pilots Association) monthly magazine, with the remainder shared between a number of publications including a weekly aviation feature run by The Australian newspaper, Aircraft News (a Peter Isaacson monthly now defunct), Australian Aviation, Aircraft & Aerospace, and Australian Flying.
+                                    <br />
+                                    <br />
+                                    Individually, these publications served their constituencies well, but it was felt that none provided optimum circulation demographics for aviation goods and services providers. The newspaper format was selected over magazine format because it allowed short deadlines, reasonable printing and distribution costs and a distinctive appearance.
+                                    <br />
+                                    <br />
+                                    The concept of an advertising-only aviation publication was pioneered by the successful US tri-monthly publication Trade-a-Plane which has been in production since 1936. Another example of an advertising-only aviation publication is Aeromart, a UK based monthly which commenced publication in 1985.<br />
+                                    <br />
+                                    In developing a business plan for a similar publication for the Australian market, limited financial resources made it essential that it delivered satisfactory results for advertisers within the first few issues. The plan was based upon a direct mail, complimentary circulation to key decision makers within the industry. The group selected included the owners of all aircraft on the Australian Aircraft Register and the principals of all organisations approved by the Civil Aviation Safety Authority to carry out aircraft maintenance. This gave an immediate circulation of around 6000 copies.
+                                    <br />
+                                    <br />
+                                    A promotional issue was printed in October, 1988. It consisted of 16 pages of complimentary advertising. 20,000 copies were distributed at the Bicentennial Air Show at Richmond. The responses received by advertisers were sufficiently encouraging to commit to a production launch with the December, 1988 issue. This issue again consisted of 16 pages with paid advertising content sufficient to cover direct printing and distribution costs. It was distributed in accordance with our business plan.
+                                    <br />
+                                    <br />
+                                    The advertisers reported "outstanding" levels of response to their advertising and many committed to ongoing advertising. The success of this first issue, both in financial terms and in advertiser enthusiasm, guaranteed the viability of the publication.
+                                    <br />
+                                    <br />
+                                    In 1991, distribution to newsagencies commenced through Network Distribution (Australia) and, in 1997, Netlink (New Zealand). Sales through newsagencies currently represent about 15% of audited circulation.
+                                    <br />
+                                    <br />
+                                    The audited circulation (presently 13,303 copies monthly - CAB audited) consists of 70% complimentary, 30% newsagency and subscription sales.
+                                    <br />
+                                    <br />
+                                    1997 saw the introduction of Aviation Trader Online. The plan for Aviation Trader Online was to initially develop a tool to attract additional advertisers to the hard copy publication. Thus all advertisements appearing in each issue of the printed publication were also made available on the Internet at no additional charge.
+                                    <br />
+                                    <br />
+                                    Currently the website attracts around 600,000 hits per month, approximately 62% from Australia, 15% from North America, 23% from other destinations. </span>
+                            </td>
+                        </tr>

@@ -1,0 +1,54 @@
+    <tr>
+                            <td>
+                                <span class="storyhead">Recent Testimonials</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td style="padding-right: 200px">
+                                <span class="storybody"> "No need to run the ad again - sold SHL today. Aviation Trader works! "</span><span style="font-style: italic"> - John Borserio </span>
+                                <br />
+                                <br />
+                                <span class="storybody"> "Wow! had a great response. SOLD all the DH82A Tiger Moth stuff on the weekend. Another feather in the cap for AT. "</span><span style="font-style: italic"> - Ian Robertson </span>
+                                <br />
+                                <br />
+                                <span class="storybody"> "Congratulations on the latest edition of Aviation Trader, it is the best ever. Your magazine has come of age and is a credit to all the people who put it together. It keeps me informed of what's available and what's new in the market. Keep up the good work. " </span><span style="font-style: italic">- Warwick Johnson </span>
+                                <br />
+                                <br />
+                                <span class="storybody"> "Looks like it's sold! Not settled yet but indications are that it will. Aviation Trader has provided excellent service and has always been responsive to calls and enquiries - you have a good team! " </span><span style="font-style: italic">- Brad Wilson, CEO, Albany Port Authority</span>
+                                <br />
+                                <br />
+                                <span class="storybody"> "Just thought I would drop you a line and say thanks for the issues of Aviation Trader. Having two copies was fantastic - managed to read one myself while they fought over the other! Thanks again, I look forward to future issues. " </span><span style="font-style: italic">- Brad Ogden, Woodside Energy</span>
+                                <br />
+                                <br />
+                                <span class="storybody"> "Thanks for your email. The advertisement was very easy to place (unlike some other websites we have tried) and we will certainly keep you in mind for future advertisements " </span><span style="font-style: italic">- Russell Cunningham, CASA</span>
+                                <br />
+                                <br />
+                                <span class="storybody"> "Just received the latest issue of Aviation Trader and noted the promo for QVAG's 'Festival of Flight'. Having expected it to appear (if at all) in black and white, suffice to say that I was blown away with the full colour rendition. Very, very, very appreciative of this and I am indebted to your kind consideration. Absolutely fabulous!! " </span><span style="font-style: italic">- Craig Justo, Aero Aspects</span>
+                                <br />
+                                <br />
+                                <span class="storybody"> "My husband has been buying me Aviation Trader for about four years. In the May edition we saw an advertisement for a Grumman Tiger and embarked on an interesting trip from Melbourne to Bundaberg to view the Tiger. Of course we bought her and flew her back last Friday. I will have to coax my husband to look for his own plane now! " </span><span style="font-style: italic">- Delia Jones</span>
+                                <br />
+                                <br />
+                                <span class="storybody"> "Further to our conversation yesterday I can give you a brief comment to sum up our reaction to our April advertisement in Aviation Trader: 'We have had an overwhelming response" </span><span style="font-style: italic">- Hayden Ryan, Ryan Aircraft Sales</span>
+                                <br />
+                                <br />
+                                <span class="storybody"> "Thank you! Service 'above and beyond'! I will be broadcasting the fact that good old fashioned service is alive and well at the Trader! " </span><span style="font-style: italic">- David Hobbs</span>
+                                <br />
+                                <br />
+                                <span class="storybody"> "Sold the Grumman AAIA Trainer on the second phone call; had a call every single day. It was incredible " </span><span style="font-style: italic">- Denis Gracie</span>
+                                <br />
+                                <br />
+                                <span class="storybody"> "Just thought I would let you know that the classified advertisement for my Cessna 210N placed in the July issue proved to be very effective. I received a phone call within hours of circulation and sold it on the spot. " </span><span style="font-style: italic">- Harvey Felton</span>
+                                <br />
+                                <br />
+                                <span class="storybody"> "The ad worked......sold yesterday, delivered tommorrow. Cancel for the next issue and THANKS VERY MUCH!!!!! " </span><span style="font-style: italic">- Phil Wilson</span>
+                                <br />
+                                <br />
+                                <span class="storybody">"Thanks. I have now sold two aircraft through your publication (one Katana in 03 and now the SR20 last month) making it possible to complete the next purchase, an SR22. " </span><span style="font-style: italic">- Andrew Miedecke</span>
+                                <br />
+                                <br />
+                                <span class="storybody"> "Thanks. We had a fantastic response to the ad, the aircraft literally flew out the door! ' </span><span style="font-style: italic">- Ben Wilson</span>
+                                <br />
+                                <br />
+                            </td>
+                        </tr>

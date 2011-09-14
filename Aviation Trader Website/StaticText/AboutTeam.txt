@@ -1,0 +1,71 @@
+ <tr>
+                            <td colspan="2">
+                                <span class="storyhead">Our Team</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td colspan="2">
+                                <span class="storyintro">We are a dedicated team committed to best business practice.
+                                    <br />
+                                    <br />
+                                </span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="conttenttext right">
+                                Editor and Publisher:
+                            </td>
+                            <td class="contentfield">
+                                Kevin Gosling
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="conttenttext right">
+                                Business Manager:
+                            </td>
+                            <td class="contentfield">
+                                Tony Shaw
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="conttenttext right">
+                                Advertising Manager - Display:
+                            </td>
+                            <td class="contentfield">
+                                Richard Slagter
+                            </td>
+                        </tr>
+                        
+                        <tr>
+                            <td class="conttenttext right">
+                                Advertising Manager - Classified:
+                            </td>
+                            <td class="contentfield">
+                                Aurelia Hill
+                            </td>
+                        </tr>
+                       
+                        <tr>
+                            <td class="conttenttext right">
+                                Finance Manager:
+                            </td>
+                            <td class="contentfield">
+                                Karen Baglin
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="conttenttext right">
+                                Digital Edition Manager:
+                            </td>
+                            <td class="contentfield">
+                                Joe Dabron
+                            </td>
+                        </tr>
+                        <tr>
+                            <td class="conttenttext right">
+                                Web Services Manager:
+                            </td>
+                            <td class="contentfield">
+                                Lisa Johnstone
+                            </td>
+                        </tr>

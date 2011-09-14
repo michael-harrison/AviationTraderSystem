@@ -1,0 +1,423 @@
+﻿ <tr>
+ <td>
+ <span class="storyhead">FAQ's</span>
+ </td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro">When and how often is Aviation Trader printed?
+
+ </td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Aviation Trader is printed monthly generally on the first Tuesday of each new month. 
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro">How is Aviation Trader circulated?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Our principal mode is direct mail but we also distribute through the National newsagency network and leading pilot shops. We begin primary circulation (including pilot shops) on the first working day after each new edition is printed, normally the first Wednesday of each month. We deliver retail circulation to our distributor on the first Wednesday of the month but newsagencies may not receive their copies for retail sale until late the following week.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> Who gets a copy of Aviation Trader?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">You will find full details of our current circulation by clicking the ‘about us’ tab on our home page and then the ‘current circulation’ tab.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> How many copies are printed each month?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Our average print run is currently 16,500.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> Can I get a back issue of Aviation Trader?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Yes. We keep a limited number of issues on site for 2 years. You can call us and we’ll check our stock. If we have the issue you need, we’ll happily mail it out to you. You can also view and search back issues on line if you subscribe to our digital edition.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> How do I place an advertisement in Aviation Trader?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">You can register as a user and submit your ad through this website or phone, fax or email the details through to us. We are happy to accept the method of communication that’s most convenient for you.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> If I choose to lodge an advertisement using the website, how will you know who I am?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Part of the registration process is to enter your address and contact details. When you register for the first time we’ll receive an alert to advise us that you’ve registered. We will keep the details you provide in a secure database file. 
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> How will you know when I have lodged an advertisement using the website?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Each time you submit and ad using our website, the ad will immediately appear in our production files as an addition. We constantly monitor these files and will pick up new ad submissions as they appear.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> What is the deadline for booking an advertisement?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">We need to receive your ad booking by 5PM on the last Thursday of each month. If you are supplying raw material (text and images in unset form) we must receive it with your booking. If you are supplying finished art in pdf and you give us a confirmed ad size before our booking deadline we can extend the material deadline by up to 72 hrs.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> Can I book an advertisement to appear in more than I issue?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Yes, you can. Just let us know which issues you would like your ad to appear in. If you lodge your ad through the website you can nominate the issues of your choice by ticking the relevant check boxes at step one in the ad submission process. If you would like your advertisement to run until cancelled, please record a note or request to that effect when you submit your ad.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> I’m waiting to confirm important information to place in my advertisement but the deadline is fast approaching. What should I do?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">We suggest you submit the ad without the pending information and include a note that let’s us know what’s missing. If you do this we can register your ad for inclusion and create the necesary booking. If you are submitting your ad through the website, use the ‘requests’ tab at step two in the ad submission process to alert us.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">If we haven’t received the missing information by deadline expiry, we’ll give you a call to discuss how best to deal with the situation. We do this no matter how you chose to submit your ad. We can most likely allocate the space required for your ad if the missing information is not extensive, and then consider extending our material deadline to accommodate your needs.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> What if I miss the deadline?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">If you miss a deadline we will do our best to include your ad on a ‘space available’ basis. We ask that you give us a call before you lodge your material so that we can determine how best to meet your needs.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> What style of advertisement can I choose?
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">We offer both classified or display advertising. Classified ads are ‘line’ ads listed by category in the Classified section of the print publication. Ads are set using Helvetica 9 pt, with a line length of 6 cm. Limited formatting is available on request. A colour photograph can also be included.
+Display ads are ‘boxed’ ads independently placed throughout the print publication. We can include photographs, logos or other graphics and present your display ad in mono (black and white), single colour or in full colour.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> How do I know which advertising style to choose?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Both ad styles offer unique benefits. The choice is mostly yours but remember it may be better to opt for the display format if you have a large amount of text or more than one image to include in your ad. Remember too that if you are lodging a holiday destination, employment, training or endorsement ad we can only offer you a display format. If you need to know more or would like advice or a recommendation, please give us a call.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> Can I get help with the content and design of my advertisement?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Yes. We currently offer a complimentary layout service designed to help our clients develop advertising concepts and effective presentations.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> What will my advertisement cost?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">The actual cost is governed by ad size, style and whether or not you choose to include a photo, colour or colours. We are happy to work to a budget and provide you with a cost estimate before you proceed with an ad placement. If you would like to estimate the cost of an ad yourself, you can view our current rates by pressing the ‘advertise’ tab and then the ‘rates’ tab.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> Where will my advertisement appear in the print edition?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Aviation Trader is primarily a free format publication but we do have specific sections for Featured Aircraft ads, Classified ads, Holiday Destination ads, Real Estate ads, Employment ads and Training and Endorsements ads.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> Will my advertisement appear on Aviation Trader’s website?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Yes. When you book and pay for a print ad, we’ll upload it to our searchable web database on the Friday following print publication. Your ad will remain on our site until the next issue is printed, generally 4 weeks.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> If I book and pay for a print ad can I have my advertisement uploaded to the website immediately?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">We offer a ‘latest listings’ service expressly for this purpose. Latest listings appear at the head of each browse category and are uniquely identified. Advertisers with a confirmed print booking can opt to place their ad as a latest listing for a small additional fee. If you select this option your ad will appear on the web as soon as we have your approval to proceed. It will revert to a standard ad listing when we upload the next print issue.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> How will my advertisement be found on Aviation Trader’s website?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">When you submit your ad you will be asked to choose a listing category and sub category. Web viewers can either browse ads by category and sub category or enter a search word or search phrase. Click the ‘view all’ button on the navigation bar to see a current listing of categories / sub categories.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> Can I advertise on the Aviation Trader Website but not in the print edition?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">No. We currently don’t accept ‘web only’ advertising.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> Will my contact details appear in my advertisement?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Yes, but only the details you want to appear. For a print ad we suggest you always include at least your first name your primary phone contact number and / or your email address in your ad text. If you register and lodge your ad through the website you can also select the contact details you would like to appear on the ‘seller info’ page that we make available when we create your web ad.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> How do I change my contact or address details?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">You can phone, fax or email your changes to us or you can log on to our website and click the ‘manage my profile’ tab. Simply make the necessary change or changes and then press the ‘save changes’ button. This will automatically update your database file.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> What should I do if my contact details are not those that I want to appear in my advertisements?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Please let us know when you lodge your ad. If you choose to lodge your ad through our website, use the ‘requests’ tab at step two in the submission process to let us know.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> How do I repeat or make changes to an advertisement that appeared in a past edition of Aviation Trader?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">You can give us your instructions and advise your changes by phone, fax or email. You can also log on to our website then press the ‘manage my ads’ tab followed by the ‘approved ads’ tab. Locate the ad you wish to repeat and press the ‘pickup ad’ tab. This will transfer you to a new submission process for the ad you wish to re-run. Complete each submission step making sure you record any required changes along the way.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> How do I pay for my advertisement?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Our payment options are credit card (Visa and Mastercard) or bank transfer. If you choose the bank transfer option and you don’t have an established account facility with us, we must receive your payment prior to publication. If you choose to pay by credit card we will debit your card when each issue of your choice has been published.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> Will I receive a paid invoice or receipt?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Yes. We will email you an invoice marked paid in the week following print publication. If you prefer to receive your invoice by fax or mail, please let us know.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> How do I get a free copy of Aviation Trader each month?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">You need to own an aircraft on either the Australian or New Zealand register, hold an AOC or C of A or in New Zealand be a registered maintenance, Training or Design organisation.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> Do I have a choice of publishing format?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Yes, the choice is yours. We publish in both print and digital format.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> If I’m not qualified to receive a free copy of Aviation Trader what are my options?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">You can purchase an annual subscription or buy the current issue at most leading newsagencies and selected pilot shops. Please give us a call if you would like to know the location of your nearest stockist.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> What if I qualify for free distribution but I’m not receiving Aviation Trader?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">There could be a couple of reasons. If you are new to the CASA or CAA register or you have applied to transfer a registration, there is often a delay between the time the regulator receives your application and the time the register is updated. It could also be that we don’t have your correct mailing address. Please give us a call to check or confirm your details.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> How do I notify you of a change of address?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">There several ways. You can complete and return (mail or fax) the change of address section on the mailing sheet that accompanies each monthly issue or provide us with your new address details by phone, fax or email. You can also manage your details on line if you are registered site user. All you have to do is log in and click the ‘manage my profile’ tab. Simply make the necessary change or changes and then press the ‘save changes’ button.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> What is audited circulation?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">Twice a year we forward details of our circulation to the CAB a leading media audit bureau. These records are independently audited and verified, the results being subsequently published. We do this to provide you with a guarantee that our circulation is genuine. Currently we are one of only five aviation publications that have independently verified circulation statistics.
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storyintro"> What is an audited website?
+
+</td>
+ </tr>
+ <tr>
+ <td>
+ <span class="storybody">An audited website is a website where volumes of web traffic (including unique browsers and page impressions) and visit durations are measured independently. We have chosen the CAB / AC Neilson partnership to audit our website and provide their results. We are the only aviation publication that currently has it’s web traffic independently monitored.
+
+
+ <br />
+ <br />
+ </td>
+ </tr>
+

@@ -1,0 +1,379 @@
+﻿body {
+}
+body{margin:0px;padding:0px;}
+
+body{font-size:13px;font-family: Myriad Pro;text-align:center;color:#707070; background:#00ace2 url(Graphics/body.gif) top center no-repeat;}
+
+/*html,body{font-size:13px;font-family: Myriad Pro;text-align:center;color:#707070; background:white;}
+*/
+div#container{width:972px;text-align:left;margin:0px auto;margin-top:0px; padding:0px; padding-top:0px; background:white; border:solid 0px #c0c0c0}
+div#wrapper{width:972px;background:white;border:solid 1px #c0c0c0}
+div#header{width:974px;height:176px;margin:0px;padding:0px;background-color:transparent;border: none;color:#6B6C6E;font-size:12px;text-align:left;}
+div#leftpanel{width:184px;z-index:1;float:left;padding-top:0px; margin:0px;background:white;}
+div#rightpanel{width:184px;z-index:1;float:right;padding-top:0px; margin-right:0px;background:white;}
+div#contentpanel1{width:762px;background:white;padding:10px; min-height:500px;height:auto!important;height:500px;margin-left:184px;margin-top:0px;}
+div#contentpanel2{width:582px;background:white;padding:10px; min-height:500px;height:auto!important;height:500px;margin-left:184px;margin-top:0px;}
+div#footer{width:974px;height:30px;margin-top:0px;background:#f6f6f6 url(Graphics/footer.gif) top left repeat-x; border:none;}
+div#contentwide{width:960px;background:white;padding:10px; min-height:300px;height:auto!important;height:300px;margin-left:0px;margin-top:0px;}
+
+div#emailcontainer{text-align:left;margin:0px auto;margin-top:10px; padding:10px;background:white; border:solid 1px #c0c0c0}
+div#emailcontent{width:740px;background:white;padding:10px;margin-left:10px;margin-top:0px;}
+
+
+table{
+	table-layout:fixed;
+}
+
+.signin
+{
+	font-size:11px;
+	font-weight:bold;
+	border-top:solid 1px #c0c0c0;
+	height:30px;
+}
+
+.signin a:hover
+{
+	font-size:11px;
+	font-weight:bold;
+	color: #505050;
+}
+
+.signin a
+{
+	font-size:11px;
+	font-weight:bold;
+	Color: #1046b6;
+	text-decoration:none;
+	
+}
+
+
+.info 
+{	  
+	text-align: left;
+	font-size:14px;
+	font-weight: normal;
+	color: #1046b6;
+}
+
+.Specgroup 
+{	  
+	text-align: center;
+	font-size:12px;
+	font-weight: Normal;
+	color: white;
+	background:#1046b6;
+}
+
+
+.menulist
+{
+	width: 100%;
+	border-collapse: collapse;
+	}
+
+.menulist td 
+{
+	padding-left: 10px;
+	height:35px;
+	font-size:12px;
+	font-weight:normal;
+	cursor:pointer;
+	background: #ccffff;
+	border-bottom:solid 1px #c0c0c0;
+	border-right:solid 1px #c0c0c0;
+}
+
+.menulist  .selected 
+{
+	border-right:solid 1px white;
+	background:white url(Graphics/lhmenuTD2.png) center right no-repeat;
+}
+.menulist a
+{
+	color: #1046b6;
+	text-decoration:none;
+}
+.menulist a:visited
+{
+	color: #1046b6;
+	text-decoration:none;
+}
+
+.autoextender
+{
+	font-weight: normal;
+	border: solid 1px #c0c0c0;
+	line-height: 20px;
+	padding: 0px;
+	margin-top:1px;
+	background-color: White;
+	list-style-type: none;
+	color: #404040;
+	font-size:12px;
+	width:170px;
+	text-align:left;
+}
+
+.autoextenderlist
+{
+	margin:0px;
+	border-bottom: solid 1px #c0c0c0;
+	cursor: pointer;
+	color: #404040;
+	
+}
+
+.autoextenderhighlight
+{
+	color: White;
+	background-color: #95d2ee;
+	border-bottom: solid 1px #c0c0c0;
+	cursor: pointer;
+	
+}
+
+.visible {visibility:visible;}
+    
+
+.contenttext {
+	font-size:12px;
+	padding-right:18px;
+	color: #999999;
+	font-weight:normal;
+}
+
+
+.contentfield 
+{
+	width: 180px;
+	text-align: left;
+	font-family: Myriad Pro;
+	font-size:12px;
+	font-weight: normal;
+	color: #404040;
+}
+
+.textinput 
+{
+	font-family: Myriad Pro;
+	font-Size:14px;
+	color:#404040;
+}
+
+
+
+.contactfield 
+{
+	width: 180px;
+	text-align: left;
+	cursor: pointer;
+	font-size:12px;
+	font-weight: normal;
+	color: #1046b6;
+	background-color:#f0f0f0;
+}
+
+.featuredad {
+	Width: 170px;
+	height:135px;
+	overflow:hidden;
+	padding:3px;
+}
+
+.featuredad .imgbox 
+{
+	width:160px;
+	height:80px;
+	overflow:hidden;
+}
+
+.featuredad img 
+{
+	display:block;
+	margin: 0 auto;
+	height: 80px;
+}
+
+.vwb a, .vwb a span {
+    background: transparent url('graphics/glassbutton.gif') no-repeat left 0;
+    margin: 0 20px 0 0;       /* 15px == amount of background image to the right */
+    padding: 0 0 0 20px;      /* 15px == amount of background image to the left */
+    display: -moz-inline-box; /* Firefox 2 support for inline-block */
+    display: inline-block;    /* Must be used so that height can be set */
+    height: 23px;             /* Same as height of background image */
+    font-size:  11px ; /* Appropriate font size / line height */
+    line-height:23px;
+    font-weight:bold;
+	text-transform:uppercase; 
+    color: #1046b6;
+    text-decoration: none;
+    cursor:pointer;
+}
+.vwb a {
+    background-position: right 0;
+    margin: 0;
+    padding: 0;
+}
+
+.vwbright a, .vwbright a span {
+    background: transparent url('graphics/glassbuttonright.gif') no-repeat left 0;
+    margin: 0 20px 0 0;       /* 15px == amount of background image to the right */
+    padding: 0 0 0 20px;      /* 15px == amount of background image to the left */
+    display: -moz-inline-box; /* Firefox 2 support for inline-block */
+    display: inline-block;    /* Must be used so that height can be set */
+    height: 23px;             /* Same as height of background image */
+    font-size:  11px ; /* Appropriate font size / line height */
+    line-height:23px;
+    font-weight:bold;
+	text-transform:uppercase; 
+    color: #1046b6;
+    text-decoration: none;
+    cursor:pointer;
+}
+.vwbright a {
+    background-position: right 0;
+    margin: 0;
+    padding: 0;
+}
+
+.vwbleft a, .vwbleft a span {
+    background: transparent url('graphics/glassbuttonleft.gif') no-repeat left 0;
+    margin: 0 20px 0 0;       /* 15px == amount of background image to the right */
+    padding: 0 0 0 20px;      /* 15px == amount of background image to the left */
+    display: -moz-inline-box; /* Firefox 2 support for inline-block */
+    display: inline-block;    /* Must be used so that height can be set */
+    height: 23px;             /* Same as height of background image */
+   font-size:  11px ; /* Appropriate font size / line height */
+    line-height:23px;
+    font-weight:bold;
+	text-transform:uppercase; 
+    color: #1046b6;
+    text-decoration: none;
+    cursor:pointer;
+}
+.vwbleft a {
+    background-position: right 0;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+hr{
+	background:red;
+	color:Green;
+}
+
+
+.detailmenu
+{
+	background:#eaeaea;
+	color: #707070;
+	font-size:12px;
+	padding:5px;
+}
+
+.detailmenuselected
+{
+	background:white;
+	color: #c70727;
+	font-size:12px;
+	padding:5px;
+	padding-right:0px;
+	}
+
+
+.footer
+{
+	font-size:11px;
+	color:#909090;
+}
+
+
+
+.left {text-align:left}
+.center {text-align:center}
+.right {text-align:right;}
+.width1 {width:50px}
+.width2 {width:70px}
+.width3 {width:150px}
+.width4 {width:250px}
+.width5 {width:350px}
+.width6 {width:450px}
+
+.visible {visibility:visible;}
+
+
+
+
+.error {color:red;}
+
+
+
+.navseparator 
+{	  
+	padding-left: 15px;
+	padding-right: 15px;
+	color:Red;
+	background:url(graphics/navseparator.gif) no-repeat center;
+}
+
+
+.nav 
+{
+	cursor: pointer;
+	text-align: left;
+	font-size:12px;
+	font-weight: Bold;
+	color: #1046b6;
+}
+
+.paging a
+{
+	margin-left:5px;
+	margin-right:5px;
+	font-weight:normal;
+	background-color:white;
+	text-align:center;
+	cursor:pointer;
+	text-decoration:none;
+	color:#808080;
+}
+.pagingselect a
+{
+	margin-left:5px;
+	margin-right:5px;
+	font-weight:bold;
+	color:#c70727;
+	background-color:White;
+	text-align:center;
+	cursor:pointer;
+	text-decoration:none;
+}
+
+
+.pagingseparator
+{
+	width:3px;
+	font-weight:normal;
+	cursor:pointer;
+}
+
+.impersonateon
+{
+	cursor:pointer;
+	background: #e7f3ff;
+}
+
+.impersonateoff
+{
+	cursor:pointer;
+}
+
+
+
+
+
+

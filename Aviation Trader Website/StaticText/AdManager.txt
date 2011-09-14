@@ -1,0 +1,16 @@
+﻿<tr>
+                            <td style="padding: 50px">
+                                <span class="storyhead">Welcome to Your Personal Ad Manager<br />
+                                </span><span class="storybody">This portal allows you to store and manage ads that are either currently running, or have previously run.<br />
+                                    <br />
+                                    Clicking the Saved tab allows you to view ads that you chose to save prior to submission. When you click ‘Complete Ad’ you will be taken back to the original submission form where you can finish or edit your ad then either re-save, cancel or submit it.<br /><br />
+                                     Clicking the Submitted tab allows you to view ads that you have submitted for production. You cannot edit ads in this section but you can request changes by clicking the ‘Contact Prodn’ button.
+                                    <br />
+                                    <br />
+                                    Clicking the ‘Waiting For Approval’ tab allows you to view submitted ads that have been set and proofed by our production team and are awaiting your approval. You cannot edit ads in this section but you can check the cost of your ad, view a proof and either approve or disapprove it. Clicking the 'Disapprove' button will send the ad back to the submitted tab where you can request changes using the ‘Contact Prodn’ button.<br />
+                                    <br />
+                                    <br />
+                                    Clicking the Approved tab allows you to view all ads in the current edition that have been approved by either you or our production team. You cannot edit an ad in this section but you can save, cancel or resubmit it as a copied ad. You can duplicate an ad in order to reuse it somewhere else. For example, if you want to run the same ad in two different sections of the classifieds, or in both the display and classified sections with slightly different wording, you will be able to using this function. When you duplicate an ad, the original ad will remain in your folder and a new ad number will be allocated to the duplicate ad. <br /><br />
+                                    The Archived tab holds all ads that you have run since inauguration of our new website. From there you are able to duplicate your previous ads and modify them if you wish for publication in current or future editions.</span>
+                            </td>
+                        </tr>

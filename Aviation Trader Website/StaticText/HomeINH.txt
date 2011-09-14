@@ -1,0 +1,23 @@
+﻿<tr>
+                            <td>
+                                <span class="storyhead">Aviation  Trader Inhouse Management  Portal</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>
+                                <span class="storybody">IMPORTANT POINTS TO REMEMBER:
+                                <br />
+                                <br />
+Headings must always be in all caps.
+                                <br />
+                                <br />
+The summary must always start with a capital letter.
+                                <br />
+                                <br />
+The summary must always end with four fullstops.
+                                <br />
+                                <br />
+The summary should be around 10-15 words long.
+                                </span>
+                            </td>
+                        </tr>

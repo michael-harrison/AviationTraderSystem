@@ -1,0 +1,367 @@
+﻿
+body{margin:0px;padding:0px;font-size:13px;font-family: Trebuchet MS;text-align:center;color:#707070; background:#f0f0f0;}
+
+div#container{text-align:left;width:974px;margin:0px auto;margin-top:0px; padding:0px; padding-top:0px; background:red; border:solid 0px #c0c0c0}
+   div#header{width:972px;height:178px;margin:0px;padding:0px;background:#c0ffc0;border: solid 1px green;}
+   div#wrapper{margin-top:5px;width:972px;background:blue;border: solid 1px green;}
+      div#leftpanel{z-index:1;float:left;padding-top:0px; margin:0px;width:184px;background:#303030;border: solid 1px green;}
+      div#rightpanel{z-index:1;float:right;padding-top:0px; margin-right:0px;width:184px;background:#c0c0c0;border: solid 1px green;}
+      div#contentpanel1{background:#303030;padding:0px;width:680px;margin-left:200px;margin-top:0px;border: solid 1px green;}
+      div#contentpanel2{background:#ff8088;padding:0px;width:580px;margin-left:200px; margin-top:0px;border: solid 1px green;}
+   div#footer{height:30px;margin-top:10px;background:#f6f6f6 url(Graphics/footer.gif) top left repeat-x; border: solid 1px green;}
+
+
+div#contentwide{background:white;padding:10px;width:960px; min-height:300px;height:auto!important;height:300px;margin-left:0px;margin-top:0px;}
+
+div#emailcontainer{text-align:left;margin:0px auto;margin-top:10px; padding:10px;background:white; border:solid 1px #c0c0c0}
+div#emailcontent{background:white;padding:10px;width:740px;margin-left:10px;margin-top:0px;}
+
+div#header{
+
+	color:#6B6C6E;
+	font-size:12px;
+	text-align:left;
+}
+
+
+
+table{
+	table-layout:fixed;
+}
+
+
+.info 
+{	  
+	text-align: left;
+	font-size:14px;
+	font-weight: normal;
+	color: #1046b6;
+}
+
+.Specgroup 
+{	  
+	text-align: center;
+	font-size:12px;
+	font-weight: Normal;
+	color: white;
+	background:#1046b6;
+}
+
+
+
+.menulist
+{
+	width: 100%;
+	border-collapse: collapse;
+	}
+
+.menulist td 
+{
+	padding-left: 10px;
+	height:35px;
+	font-size:12px;
+	font-weight:normal;
+	cursor:pointer;
+	background: black;
+	border-bottom:solid 1px #c0c0c0;
+	border-right:solid 1px #c0c0c0;
+}
+
+.menulist  .selected 
+{
+	border-right:solid 1px white;
+	background:white url(Graphics/lhmenuTD2.png) center right no-repeat;
+}
+.menulist a
+{
+	color: orange;
+	text-decoration:none;
+}
+.menulist a:visited
+{
+	color: orange;
+	text-decoration:none;
+}
+
+.autoextender
+{
+	font-weight: normal;
+	border: solid 1px #c0c0c0;
+	line-height: 20px;
+	padding: 0px;
+	margin-top:1px;
+	background-color: White;
+	list-style-type: none;
+	color: #404040;
+	font-size:12px;
+	width:170px;
+	text-align:left;
+}
+
+.autoextenderlist
+{
+	margin:0px;
+	border-bottom: solid 1px #c0c0c0;
+	cursor: pointer;
+	color: #404040;
+	
+}
+
+.autoextenderhighlight
+{
+	color: White;
+	background-color: #95d2ee;
+	border-bottom: solid 1px #c0c0c0;
+	cursor: pointer;
+	
+}
+
+.visible {visibility:visible;}
+    
+
+.contenttext {
+	font-size:12px;
+	padding-right:18px;
+	color: #999999;
+	font-weight:normal;
+}
+
+
+.contentfield 
+{
+	width: 180px;
+	text-align: left;
+	font-family: Trebuchet MS;
+	font-size:12px;
+	font-weight: normal;
+	color: green;
+	background:black;
+	border:solid 1px #006000;
+}
+
+.textinput 
+{
+	font-family: Trebuchet MS;
+	font-Size:14px;
+	color:#404040;
+}
+
+
+
+.contactfield 
+{
+	width: 180px;
+	text-align: left;
+	cursor: pointer;
+	font-size:12px;
+	font-weight: normal;
+	color: #1046b6;
+	background-color:#f0f0f0;
+}
+
+.featuredad {
+	Width: 180px;
+	height:135px;
+	overflow:hidden;
+	padding:3px;
+}
+
+.featuredad .imgbox 
+{
+	width:174px;
+	height:80px;
+	overflow:hidden;
+}
+
+.featuredad img 
+{
+	display:block;
+	margin: 0 auto;
+	height: 80px;
+}
+
+
+
+
+.vwb a, .vwb a span {
+    background: transparent url('graphics/glassbutton.gif') no-repeat left 0;
+    margin: 0 20px 0 0;       /* 15px == amount of background image to the right */
+    padding: 0 0 0 20px;      /* 15px == amount of background image to the left */
+    display: -moz-inline-box; /* Firefox 2 support for inline-block */
+    display: inline-block;    /* Must be used so that height can be set */
+    height: 23px;             /* Same as height of background image */
+    font-size:  11px ; /* Appropriate font size / line height */
+    line-height:23px;
+    font-weight:bold;
+	text-transform:uppercase; 
+    color: #1046b6;
+    text-decoration: none;
+    cursor:pointer;
+}
+.vwb a {
+    background-position: right 0;
+    margin: 0;
+    padding: 0;
+}
+
+.vwbright a, .vwbright a span {
+    background: transparent url('graphics/glassbuttonright.gif') no-repeat left 0;
+    margin: 0 20px 0 0;       /* 15px == amount of background image to the right */
+    padding: 0 0 0 20px;      /* 15px == amount of background image to the left */
+    display: -moz-inline-box; /* Firefox 2 support for inline-block */
+    display: inline-block;    /* Must be used so that height can be set */
+    height: 23px;             /* Same as height of background image */
+    font-size:  11px ; /* Appropriate font size / line height */
+    line-height:23px;
+    font-weight:bold;
+	text-transform:uppercase; 
+    color: #1046b6;
+    text-decoration: none;
+    cursor:pointer;
+}
+.vwbright a {
+    background-position: right 0;
+    margin: 0;
+    padding: 0;
+}
+
+.vwbleft a, .vwbleft a span {
+    background: transparent url('graphics/glassbuttonleft.gif') no-repeat left 0;
+    margin: 0 20px 0 0;       /* 15px == amount of background image to the right */
+    padding: 0 0 0 20px;      /* 15px == amount of background image to the left */
+    display: -moz-inline-box; /* Firefox 2 support for inline-block */
+    display: inline-block;    /* Must be used so that height can be set */
+    height: 23px;             /* Same as height of background image */
+   font-size:  11px ; /* Appropriate font size / line height */
+    line-height:23px;
+    font-weight:bold;
+	text-transform:uppercase; 
+    color: #1046b6;
+    text-decoration: none;
+    cursor:pointer;
+}
+.vwbleft a {
+    background-position: right 0;
+    margin: 0;
+    padding: 0;
+}
+
+
+
+hr{
+	background:red;
+	color:Green;
+}
+
+
+.detailmenu
+{
+	background:#eaeaea;
+	color: #707070;
+	font-size:12px;
+	padding:5px;
+}
+
+.detailmenuselected
+{
+	background:white;
+	color: #c70727;
+	font-size:12px;
+	padding:5px;
+	padding-right:0px;
+	}
+
+
+
+.footer
+{
+	font-size:11px;
+	color:#909090;
+}
+
+
+
+.left {text-align:left}
+.center {text-align:center}
+.right {text-align:right;}
+.width1 {width:50px}
+.width2 {width:70px}
+.width3 {width:150px}
+.width4 {width:250px}
+.width5 {width:350px}
+.width6 {width:450px}
+
+.visible {visibility:visible;}
+
+
+
+
+.error {color:red;}
+
+
+
+.navseparator 
+{	  
+	padding-left: 15px;
+	padding-right: 15px;
+	color:Red;
+	background:url(graphics/navseparator.gif) no-repeat center;
+}
+
+
+.nav 
+{
+	cursor: pointer;
+	text-align: left;
+	font-size:12px;
+	font-weight: Bold;
+	color: #1046b6;
+}
+
+.paging a
+{
+	margin-left:5px;
+	margin-right:5px;
+	font-weight:normal;
+	background-color:white;
+	text-align:center;
+	cursor:pointer;
+	text-decoration:none;
+	color:#808080;
+}
+.pagingselect a
+{
+	margin-left:5px;
+	margin-right:5px;
+	font-weight:bold;
+	color:#c70727;
+	background-color:White;
+	text-align:center;
+	cursor:pointer;
+	text-decoration:none;
+}
+
+
+.pagingseparator
+{
+	width:3px;
+	font-weight:normal;
+	cursor:pointer;
+}
+
+.impersonateon
+{
+	cursor:pointer;
+	background: #e7f3ff;
+}
+
+.impersonateoff
+{
+	cursor:pointer;
+}
+
+
+
+
+
+
