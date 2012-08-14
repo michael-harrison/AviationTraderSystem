@@ -3,7 +3,7 @@
 <!DocType html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
-    <title>Avation Trader - Your total aviation marketplace</title>
+    <title>Aviation Trader - Your total aviation marketplace</title>
 </head>
 <body onload="resizePanels()">
     <form id="form1" runat="server">
@@ -12,10 +12,12 @@
            <asp:ServiceReference Path="~/System/Webservices.asmx" />
         </Services>
     </asp:ScriptManager>
-    <div id="container">
+    <div id="container_top">
         <div id="header">
             <uc3:Headerbar ID="headerbar" runat="server" />
         </div>
+    </div>
+    <div id="container">
         <div id="wrapper">
             <div id="leftpanel" style="background: #eaeaea">
                 <img src="../Graphics/AdThermo2-5.png" alt="step 1" />
@@ -33,7 +35,7 @@
                                 <td colspan="2">
                                     <table width="100%" border="0" style="border: solid 1px #c0c0c0; border-collapse: collapse">
                                         <tr>
-                                            <td class="contenttext right" width="200px">
+                                            <td class="contenttext right_text" width="200px">
                                                 Category:
                                             </td>
                                             <td align="right" width="225px">
@@ -44,7 +46,7 @@
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="contenttext right">
+                                            <td class="contenttext right_text">
                                                 Sub Category:
                                             </td>
                                             <td align="right">
@@ -66,9 +68,6 @@
                         </div>
                     </ContentTemplate>
                 </asp:UpdatePanel>
-            </div>
-            <div id="footer">
-                <uc4:Footerbar ID="footerbar" runat="server" />
             </div>
         </div>
     </div>

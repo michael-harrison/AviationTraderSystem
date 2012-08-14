@@ -3,7 +3,7 @@
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
-    <title>Avation Trader - Your total aviation marketplace</title>
+    <title>Aviation Trader - Your total aviation marketplace</title>
 </head>
 <body onload="resizePanels()">
     <uc9:BarberPole ID="barberpole" Msg="Please wait - building previews" Left="450px" Top="270px" runat="server" />
@@ -35,7 +35,7 @@
                                     <td>
                                         <table width="100%" border="0" cellpadding="5">
                                             <tr>
-                                                <td class="contenttext right" style="width: 180px">
+                                                <td class="contenttext right_text" style="width: 180px">
                                                     Name:
                                                 </td>
                                                 <td>
@@ -45,7 +45,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Artwork URL:
                                                 </td>
                                                 <td>
@@ -55,7 +55,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Click Thru URL:
                                                 </td>
                                                 <td>
@@ -65,7 +65,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Category:
                                                 </td>
                                                 <td>
@@ -73,7 +73,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Type:
                                                 </td>
                                                 <td>
@@ -82,7 +82,7 @@
                                             </tr>
                                            
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Width:
                                                 </td>
                                                 <td>
@@ -93,7 +93,7 @@
                                             </tr>
                                            
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Height:
                                                 </td>
                                                 <td>
@@ -103,7 +103,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Space Above:
                                                 </td>
                                                 <td>
@@ -113,7 +113,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Space Below:
                                                 </td>
                                                 <td>
@@ -124,7 +124,7 @@
                                             </tr>
                                             
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Space Left:
                                                 </td>
                                                 <td>
@@ -135,7 +135,7 @@
                                             </tr>
                                             
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Space Right:
                                                 </td>
                                                 <td>
@@ -145,7 +145,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     BG Color:
                                                 </td>
                                                 <td>
@@ -155,7 +155,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Total Inserts:
                                                 </td>
                                                 <td>
@@ -164,7 +164,7 @@
                                             </tr>
                                             
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Total Click-throughs:
                                                 </td>
                                                 <td>
@@ -172,7 +172,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Conversion Rate:
                                                 </td>
                                                 <td>

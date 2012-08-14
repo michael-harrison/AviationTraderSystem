@@ -3,7 +3,7 @@
 <!DocType html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
-    <title>Avation Trader - Your total aviation marketplace</title>
+    <title>Aviation Trader - Your total aviation marketplace</title>
 </head>
 <body onload="resizePanels()">
     <form id="form1" runat="server">
@@ -12,10 +12,12 @@
            <asp:ServiceReference Path="~/System/Webservices.asmx" />
         </Services>
     </asp:ScriptManager>
-    <div id="container">
+    <div id="container_top">
         <div id="header">
             <uc3:Headerbar ID="headerbar" runat="server" />
         </div>
+    </div>
+    <div id="container">
         <div id="wrapper">
             <div id="leftpanel">
                 <uc2:LeftMenu ID="leftmenu" runat="server" />
@@ -39,7 +41,7 @@
                                     <td>
                                         <table width="100%">
                                             <tr>
-                                                <td class="contenttext right" style="width: 250px">
+                                                <td class="contenttext right_text" style="width: 250px">
                                                     Edition Name:
                                                 </td>
                                                 <td align='left'>
@@ -49,7 +51,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right" style="width: 250px">
+                                                <td class="contenttext right_text" style="width: 250px">
                                                     Short Name:
                                                 </td>
                                                 <td align='left'>
@@ -59,7 +61,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Sort Key:
                                                 </td>
                                                 <td align='left'>
@@ -68,7 +70,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Description:
                                                 </td>
                                                 <td align='left'>
@@ -78,7 +80,7 @@
                                             </tr>
                                             
                                             <tr>
-                                                <td class="contenttext right" style="width: 250px">
+                                                <td class="contenttext right_text" style="width: 250px">
                                                     Onsale Date:
                                                 </td>
                                                 <td align='left'>
@@ -89,7 +91,7 @@
                                             </tr>
                                             
                                             <tr>
-                                                <td class="contenttext right" style="width: 250px">
+                                                <td class="contenttext right_text" style="width: 250px">
                                                     Ad Deadline:
                                                 </td>
                                                 <td align='left'>
@@ -100,7 +102,7 @@
                                             </tr>
                                             
                                             <tr>
-                                                <td class="contenttext right" style="width: 250px">
+                                                <td class="contenttext right_text" style="width: 250px">
                                                     Production Deadline:
                                                 </td>
                                                 <td align='left'>
@@ -111,14 +113,14 @@
                                             </tr>
                                             
                                             <tr>
-                                                <td class="contenttext right" style="width: 250px">
+                                                <td class="contenttext right_text" style="width: 250px">
                                                     Include in Production Wizard:
                                                 </td>
                                                 <td align='left'>
                                               <asp:CheckBox ID="wizardcheck" CssClass="contentfield" runat="server" />&nbsp;Check this box to include in Production Wizard   </td>
                                             
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Production Status:
                                                 </td>
                                                 <td align='left'>
@@ -126,7 +128,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Visibility:
                                                 </td>
                                                 <td align='left'>
@@ -134,7 +136,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Send to another publication:
                                                 </td>
                                                 <td>
@@ -142,7 +144,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Number of ads in this Edition:
                                                 </td>
                                                 <td align='left'>
@@ -155,7 +157,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Move all ads to another edition
                                                 </td>
                                                 <td align='left'>
@@ -171,9 +173,6 @@
                     </ContentTemplate>
                 </asp:UpdatePanel>
             </div>
-        </div>
-        <div id="footer">
-            <uc4:Footerbar ID="footerbar" runat="server" />
         </div>
     </div>
     </form>

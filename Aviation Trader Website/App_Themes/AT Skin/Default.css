@@ -2,13 +2,23 @@
 }
 body{margin:0px;padding:0px;}
 
+/*
 body{font-size:13px;font-family: Trebuchet MS;text-align:center;color:#707070; background:#00ace2 url(Graphics/body.gif) top center no-repeat;}
+*/
+body {
+background: #5789C4 url(Graphics/bg.jpg);
+background-position: top;
+background-repeat: no-repeat;
+font: 13px Arial, Helmet, Freesans, sans-serif;
+-webkit-background-size: 3000px 1272px;
+}
 
 /*html,body{font-size:13px;font-family: Trebuchet MS;text-align:center;color:#707070; background:white;}
 */
+div#container_top{width:972px;text-align:left;margin:0px auto;margin-top:0px; padding:0px; padding-top:0px; background:transparent}
 div#container{width:972px;text-align:left;margin:0px auto;margin-top:0px; padding:0px; padding-top:0px; background:white; border:solid 0px #c0c0c0}
 div#wrapper{width:972px;background:white;border:solid 1px #c0c0c0}
-div#header{width:974px;height:176px;margin:0px;padding:0px;background-color:transparent;border: none;color:#6B6C6E;font-size:12px;text-align:left;}
+div#header{width:974px;height:315px;margin:0px;padding:0px;background-color:transparent;border: none;color:#6B6C6E;font-size:12px;text-align:left;}
 div#leftpanel{width:184px;z-index:1;float:left;padding-top:0px; margin:0px;background:white;}
 div#rightpanel{width:184px;z-index:1;float:right;padding-top:0px; margin-right:0px;background:white;}
 div#contentpanel1{width:762px;background:white;padding:10px; min-height:500px;height:auto!important;height:500px;margin-left:184px;margin-top:0px;}
@@ -19,6 +29,21 @@ div#contentwide{width:960px;background:white;padding:10px; min-height:300px;heig
 div#emailcontainer{text-align:left;margin:0px auto;margin-top:10px; padding:10px;background:white; border:solid 1px #c0c0c0}
 div#emailcontent{width:740px;background:white;padding:10px;margin-left:10px;margin-top:0px;}
 
+
+#registration_form tr td 
+{
+	padding:10px;
+}
+	
+#login_form tr td 
+{
+	padding:10px;
+}
+
+.right_text
+{
+	text-align: right
+}
 
 table{
 	table-layout:fixed;
@@ -55,6 +80,11 @@ table{
 	font-size:14px;
 	font-weight: normal;
 	color: #1046b6;
+	vertical-align: middle;
+}
+.info td
+{
+	vertical-align: middle;
 }
 
 .Specgroup 
@@ -83,6 +113,7 @@ table{
 	background: #eaeaea;
 	border-bottom:solid 1px #c0c0c0;
 	border-right:solid 1px #c0c0c0;
+	vertical-align: middle;
 }
 
 .menulist  .selected 

@@ -3,7 +3,7 @@
 <!DocType html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
-    <title>Avation Trader - Your total aviation marketplace</title>
+    <title>Aviation Trader - Your total aviation marketplace</title>
 </head>
 <body onload="resizePanels()">
     <form id="form1" runat="server">
@@ -12,10 +12,12 @@
            <asp:ServiceReference Path="~/System/Webservices.asmx" />
         </Services>
     </asp:ScriptManager>
-    <div id="container">
+    <div id="container_top">
         <div id="header">
             <uc3:Headerbar ID="headerbar" runat="server" />
         </div>
+    </div>
+    <div id="container">
         <div id="wrapper">
             <div id="leftpanel">
                 <uc2:LeftMenu ID="leftmenu" runat="server" />
@@ -45,7 +47,7 @@
                                         <table width="100%">
                                             
                                             <tr>
-                                                <td class="contenttext right" style="width: 270px">
+                                                <td class="contenttext right_text" style="width: 270px">
                                                     Email Address :
                                                 </td>
                                                 <td align='left' style="width:270px">
@@ -60,7 +62,7 @@
                                             </tr>
                                             
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     First Name :
                                                 </td>
                                                 <td align='left'>
@@ -71,7 +73,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Last Name :
                                                 </td>
                                                 <td align='left'>
@@ -82,7 +84,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Company :
                                                 </td>
                                                 <td align='left'>
@@ -93,7 +95,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     ACN/ABN :
                                                 </td>
                                                 <td align='left'>
@@ -104,7 +106,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Website :
                                                 </td>
                                                 <td align='left'>
@@ -115,7 +117,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Phone :
                                                 </td>
                                                 <td align='left'>
@@ -126,7 +128,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     After Hours Phone :
                                                 </td>
                                                 <td align='left'>
@@ -137,7 +139,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Mobile :
                                                 </td>
                                                 <td align='left'>
@@ -148,7 +150,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Fax :
                                                 </td>
                                                 <td align='left'>
@@ -164,7 +166,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Address 1 :
                                                 </td>
                                                 <td align='left'>
@@ -174,7 +176,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Address 2 :
                                                 </td>
                                                 <td align='left'>
@@ -184,7 +186,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Suburb :
                                                 </td>
                                                 <td align='left'>
@@ -195,7 +197,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     PostCode :
                                                 </td>
                                                 <td align='left'>
@@ -205,7 +207,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     State :
                                                 </td>
                                                 <td align='left'>
@@ -215,7 +217,7 @@
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Country :
                                                 </td>
                                                 <td align='left'>
@@ -232,9 +234,6 @@
                     </ContentTemplate>
                 </asp:UpdatePanel>
             </div>
-        </div>
-        <div id="footer">
-            <uc4:Footerbar ID="footerbar" runat="server" />
         </div>
     </div>
     </form>

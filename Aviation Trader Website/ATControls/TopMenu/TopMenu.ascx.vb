@@ -85,60 +85,96 @@ Partial Class ATControls_TopMenu
         UL.Attributes.Add("class", _CSSClass)
         div.Controls.Add(UL)
 
-        Dim i As Integer = 0
+		Dim i As Integer = 0
+		Dim LI As New HtmlControls.HtmlGenericControl
+		Dim level1node As MenuNode
 
-        For Each level1node As MenuNode In _Nodes
-            Dim LI As New HtmlControls.HtmlGenericControl
-            LI.TagName = "li"
+		level1node = _Nodes.First
 
-            UL.Controls.Add(LI)
+		LI.TagName = "li"
 
-            Dim span As New HtmlControls.HtmlGenericControl
-            If level1node.Selected Then span.Attributes.Add("class", "selected")
-            span.InnerText = level1node.Text
+		UL.Controls.Add(LI)
 
-            If _isPostBackMode Then
-                Dim LB As New LinkButton
-                LB.ID = level1node.ID
-                If level1node.PoleText.Length > 0 Then
-                    LB.Attributes.Add("onclick", "showPole(500);")
-                End If
-                AddHandler LB.Click, AddressOf LBHandler
-                If level1node.Selected Then LB.CssClass = "selected"
-                LI.Controls.Add(LB)
-                LB.Controls.Add(span)
-            Else
-                Dim HL As New HyperLink
-                HL.ID = level1node.ID
-                If level1node.PoleText.Length > 0 Then
-                    HL.Attributes.Add("onclick", "showPole(500);")
-                End If
-                HL.NavigateUrl = level1node.NavTarget
-                If level1node.Selected Then HL.CssClass = "selected"
-                LI.Controls.Add(HL)
-                HL.Controls.Add(span)
-            End If
+		Dim span As New HtmlControls.HtmlGenericControl
+		If level1node.Selected Then span.Attributes.Add("class", "selected")
+		span.InnerText = level1node.Text
 
-            i += 1
+		If _isPostBackMode Then
+			Dim LB As New LinkButton
+			LB.ID = level1node.ID
+			If level1node.PoleText.Length > 0 Then
+				LB.Attributes.Add("onclick", "showPole(500);")
+			End If
+			AddHandler LB.Click, AddressOf LBHandler
+			If level1node.Selected Then LB.CssClass = "selected"
+			LI.Controls.Add(LB)
+			LB.Controls.Add(span)
+		Else
+			Dim HL As New HyperLink
+			HL.ID = level1node.ID
+			If level1node.PoleText.Length > 0 Then
+				HL.Attributes.Add("onclick", "showPole(500);")
+			End If
+			HL.NavigateUrl = level1node.NavTarget
+			If level1node.Selected Then HL.CssClass = "selected"
+			LI.Controls.Add(HL)
+			HL.Controls.Add(span)
+		End If
 
-            If level1node.Nodes.Count > 0 Then
-                Dim UL2 As New HtmlControls.HtmlGenericControl
-                UL2.TagName = "ul"
-                LI.Controls.Add(UL2)
+		Return
 
-                For Each level2node As MenuNode In level1node.Nodes
-                    Dim LI2 As New HtmlControls.HtmlGenericControl
-                    LI2.TagName = "li"
-                    UL2.Controls.Add(LI2)
-                    Dim A2 As New HtmlControls.HtmlGenericControl
-                    A2.TagName = "a"
-                    A2.Attributes.Add("href", level2node.NavTarget)
-                    If level2node.StyleModifier.Length > 0 Then A2.Attributes.Add("Style", level2node.StyleModifier)
-                    A2.InnerText = level2node.Text
-                    LI2.Controls.Add(A2)
-                Next
-            End If
-        Next
+		'For Each level1node As MenuNode In _Nodes
+		'    Dim LI As New HtmlControls.HtmlGenericControl
+		'    LI.TagName = "li"
+
+		'    UL.Controls.Add(LI)
+
+		'    Dim span As New HtmlControls.HtmlGenericControl
+		'    If level1node.Selected Then span.Attributes.Add("class", "selected")
+		'    span.InnerText = level1node.Text
+
+		'    If _isPostBackMode Then
+		'        Dim LB As New LinkButton
+		'        LB.ID = level1node.ID
+		'        If level1node.PoleText.Length > 0 Then
+		'            LB.Attributes.Add("onclick", "showPole(500);")
+		'        End If
+		'        AddHandler LB.Click, AddressOf LBHandler
+		'        If level1node.Selected Then LB.CssClass = "selected"
+		'        LI.Controls.Add(LB)
+		'        LB.Controls.Add(span)
+		'    Else
+		'        Dim HL As New HyperLink
+		'        HL.ID = level1node.ID
+		'        If level1node.PoleText.Length > 0 Then
+		'            HL.Attributes.Add("onclick", "showPole(500);")
+		'        End If
+		'        HL.NavigateUrl = level1node.NavTarget
+		'        If level1node.Selected Then HL.CssClass = "selected"
+		'        LI.Controls.Add(HL)
+		'        HL.Controls.Add(span)
+		'    End If
+
+		'    i += 1
+
+		'    If level1node.Nodes.Count > 0 Then
+		'        Dim UL2 As New HtmlControls.HtmlGenericControl
+		'        UL2.TagName = "ul"
+		'        LI.Controls.Add(UL2)
+
+		'        For Each level2node As MenuNode In level1node.Nodes
+		'            Dim LI2 As New HtmlControls.HtmlGenericControl
+		'            LI2.TagName = "li"
+		'            UL2.Controls.Add(LI2)
+		'            Dim A2 As New HtmlControls.HtmlGenericControl
+		'            A2.TagName = "a"
+		'            A2.Attributes.Add("href", level2node.NavTarget)
+		'            If level2node.StyleModifier.Length > 0 Then A2.Attributes.Add("Style", level2node.StyleModifier)
+		'            A2.InnerText = level2node.Text
+		'            LI2.Controls.Add(A2)
+		'        Next
+		'    End If
+		'Next
     End Sub
 
     Public Sub SetCurrentTab(ByVal TabID As String)

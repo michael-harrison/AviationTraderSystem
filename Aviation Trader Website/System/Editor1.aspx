@@ -3,7 +3,7 @@
 <!DocType html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
-    <title>Avation Trader - Your total aviation marketplace</title>
+    <title>Aviation Trader - Your total aviation marketplace</title>
 </head>
 <body onload="resizePanels()">
     <uc9:BarberPole ID="barberpole" Msg="Please wait - building previews" Left="450px" Top="270px" runat="server" />
@@ -13,10 +13,12 @@
            <asp:ServiceReference Path="~/System/Webservices.asmx" />
         </Services>
     </asp:ScriptManager>
-    <div id="container">
+    <div id="container_top">
         <div id="header">
             <uc3:Headerbar ID="headerbar" runat="server" />
         </div>
+    </div>
+    <div id="container">
         <div id="wrapper">
             <div id="leftpanel">
                 <uc2:LeftMenu ID="leftmenu" runat="server" />
@@ -43,7 +45,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="contenttext right">
+                            <td class="contenttext right_text">
                                 System Build Info :
                             </td>
                             <td align='left'>
@@ -51,7 +53,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="contenttext right">
+                            <td class="contenttext right_text">
                                 System Name :
                             </td>
                             <td colspan="2" align='left'>
@@ -61,7 +63,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="contenttext right">
+                            <td class="contenttext right_text">
                                 Website Physical Path :
                             </td>
                             <td colspan="2" align='left'>
@@ -70,7 +72,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="contenttext right">
+                            <td class="contenttext right_text">
                                 Internal URL :
                             </td>
                             <td colspan="2" align='left'>
@@ -79,7 +81,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="contenttext right">
+                            <td class="contenttext right_text">
                                 External URL :
                             </td>
                             <td colspan="2" align='left'>
@@ -88,7 +90,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="contenttext right">
+                            <td class="contenttext right_text">
                                 Thumbnail Image Height :
                             </td>
                             <td colspan="2" align='left'>
@@ -97,7 +99,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="contenttext right">
+                            <td class="contenttext right_text">
                                 Low Res Image Height :
                             </td>
                             <td colspan="2" align='left'>
@@ -112,7 +114,7 @@
                         </tr>
                         
                         <tr>
-                            <td class="contenttext right">
+                            <td class="contenttext right_text">
                                 Front Pic Image Type:
                             </td>
                             <td>
@@ -120,7 +122,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="contenttext right">
+                            <td class="contenttext right_text">
                                 Front Pic Image Source:
                             </td>
                             <td>
@@ -150,7 +152,7 @@
                         </tr>
                         
                         <tr>
-                            <td class="contenttext right">
+                            <td class="contenttext right_text">
                                 Front Pic Caption :
                             </td>
                             <td colspan="2" align='left'>
@@ -164,7 +166,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="contenttext right">
+                            <td class="contenttext right_text">
                                 Back Pic Image Type:
                             </td>
                             <td>
@@ -172,7 +174,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="contenttext right">
+                            <td class="contenttext right_text">
                                 Back Pic Image Source:
                             </td>
                             <td>
@@ -199,7 +201,7 @@
                         </tr>
                        
                         <tr>
-                            <td class="contenttext right">
+                            <td class="contenttext right_text">
                                 Back Pic Caption :
                             </td>
                             <td colspan="2" align='left'>
@@ -213,7 +215,7 @@
                             </td>
                         </tr>
                         <tr>
-                            <td class="contenttext right">
+                            <td class="contenttext right_text">
                                 Cover Pic Source:
                             </td>
                             <td>
@@ -245,9 +247,6 @@
                     </table>
                 </div>
             </div>
-        </div>
-        <div id="footer">
-            <uc4:Footerbar ID="footerbar" runat="server" />
         </div>
     </div>
     </form>

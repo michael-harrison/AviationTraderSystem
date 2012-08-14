@@ -3,7 +3,7 @@
 <!DocType html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
-    <title>Avation Trader - Your total aviation marketplace</title>
+    <title>Aviation Trader - Your total aviation marketplace</title>
     <meta name="description" content="Aviation advertising marketplace - buy sell aircraft airplanes helicopters property jobs" />
     <meta name="keywords" content="aviation aircraft airplanes helicopters sell buy sale" />
 
@@ -31,21 +31,20 @@
             <asp:ServiceReference Path="~/System/Webservices.asmx" />
         </Services>
     </asp:ScriptManager>
-    <div id="container">
+    <div id="container_top">    
         <div id="header">
             <uc3:Headerbar ID="headerbar" ShowSearchBar="true" runat="server" />
         </div>
+    </div>
+    <div id="container">    
         <div id="wrapper">
             <div id="leftpanel" style="padding: 0px;" runat="server">
                 <uc2:LeftMenu ID="leftmenu" runat="server" />
-                <div style="margin-left: 4px">
-                    <uc17:AdRotator ID="AdRotator1" category="HomeLeft" Height="540" runat="server" />
-                </div>
             </div>
             <div id="rightpanel" style="padding: 0px;">
-                <uc23:NewsRotator ID="NewsRotator" runat="server" />
-                <uc17:AdRotator ID="AdRotator" category="HomeRight" Height="540" runat="server" />
+                <!--<uc23:NewsRotator ID="NewsRotator" runat="server" />-->
             </div>
+            <!--
             <div id="contentpanel2">
                 <table border="0" width="100%" style="border-collapse: collapse">
                     <tr>
@@ -65,7 +64,6 @@
                                 <HeaderTemplate>
                                     <div>
                                         <span style="font-size: 14px; font-weight: bold; color: #c70727">&nbsp;&nbsp;Headline ads...</span>
-                                        <!-- Step Carousel -->
                                         <div id="picgallery" class="stepcarousel2" style="height: 147px; width: 574px">
                                             <div id="belt" class="belt" style="left: 0px; width: <%# beltWidth %>px">
                                 </HeaderTemplate>
@@ -103,9 +101,7 @@
                     </tr>
                 </table>
             </div>
-        </div>
-        <div id="footer">
-            <uc4:Footerbar ID="footerbar" runat="server" />
+            -->
         </div>
     </div>
     </form>

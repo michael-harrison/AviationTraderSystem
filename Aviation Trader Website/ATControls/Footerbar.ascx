@@ -70,7 +70,7 @@ function popup(url,windowname) {
 multiple popups simultaneously, choose different params -->
     <tr>
         <td align="left" width="450px" valign="top">
-            Copyright 2010 Aviation Trader | <span id ="termsofuse" style="cursor: pointer;"  runat="server">Terms of Use</span> | <span id="privacypolicy" style="cursor: pointer;" runat="server">Privacy Policy</span>
+            Copyright <asp:Literal ID="litCopyrightYear" runat="server"></asp:Literal> Aviation Trader | <span id ="termsofuse" style="cursor: pointer;"  runat="server">Terms of Use</span> | <span id="privacypolicy" style="cursor: pointer;" runat="server">Privacy Policy</span>
         </td>
         
     </tr>

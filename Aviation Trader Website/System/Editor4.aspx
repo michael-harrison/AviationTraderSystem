@@ -3,7 +3,7 @@
 <!DocType html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
-    <title>Avation Trader - Your total aviation marketplace</title>
+    <title>Aviation Trader - Your total aviation marketplace</title>
 </head>
 <body onload="resizePanels()">
     <form id="form1" runat="server">
@@ -12,10 +12,12 @@
            <asp:ServiceReference Path="~/System/Webservices.asmx" />
         </Services>
     </asp:ScriptManager>
-    <div id="container">
+    <div id="container_top">
         <div id="header">
             <uc3:Headerbar ID="headerbar" runat="server" />
         </div>
+    </div>
+    <div id="container">
         <div id="wrapper">
             <div id="leftpanel">
                 <uc2:LeftMenu ID="leftmenu" runat="server" />
@@ -44,7 +46,7 @@
                                 
                                 <tr><td colspan="2">Engine Parameters</td></tr>
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Engine Port :
                                     </td>
                                     <td align='left'>
@@ -53,7 +55,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Job Timeout (ms) :
                                     </td>
                                     <td align='left'>
@@ -62,7 +64,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Engine Name :
                                     </td>
                                     <td align='left'>
@@ -70,7 +72,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Engine IP Address :
                                     </td>
                                     <td align='left'>
@@ -88,7 +90,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Source Image Folder (Original) :
                                     </td>
                                     <td align='left'>
@@ -98,7 +100,7 @@
                                 </tr>
                                 
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Source Image Folder (Working) :
                                     </td>
                                     <td align='left'>
@@ -107,7 +109,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Display Ad Folder :
                                     </td>
                                     <td align='left'>
@@ -117,7 +119,7 @@
                                 </tr>
                                 
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         ClassAd Folder :
                                     </td>
                                     <td align='left'>
@@ -126,7 +128,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Prodn PDF Folder :
                                     </td>
                                     <td align='left'>
@@ -145,7 +147,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Classfied Template Name :
                                     </td>
                                     <td align='left'>
@@ -155,7 +157,7 @@
                                 </tr>
                                                                
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Classified Line Height in mm :
                                     </td>
                                     <td align='left'>
@@ -164,7 +166,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Classified Pic Height in mm :
                                     </td>
                                     <td align='left'>
@@ -184,7 +186,7 @@
                                 </tr>
                                 
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Number of Display Columns :
                                     </td>
                                     <td align='left'>
@@ -194,7 +196,7 @@
                                 </tr>
                                 
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Display Column Height in mm :
                                     </td>
                                     <td align='left'>
@@ -203,7 +205,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Display Column Width in mm :
                                     </td>
                                     <td align='left'>
@@ -212,7 +214,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Display Gutter Width in mm :
                                     </td>
                                     <td align='left'>
@@ -232,7 +234,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Latest Listing Loading :
                                     </td>
                                     <td align='left'>
@@ -241,7 +243,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Latest Listing Kill Date :
                                     </td>
                                     <td align='left'>
@@ -250,7 +252,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Rate table spreadsheet :
                                     </td>
                                     <td align='left'>
@@ -259,7 +261,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Display sheet :
                                     </td>
                                     <td align='left'>
@@ -273,7 +275,7 @@
                                     </td>
                                 </tr>
                                 <tr>
-                                    <td class="contenttext right">
+                                    <td class="contenttext right_text">
                                         Classified sheet :
                                     </td>
                                     <td align='left'>
@@ -296,9 +298,6 @@
                     </ContentTemplate>
                 </asp:UpdatePanel>
             </div>
-        </div>
-        <div id="footer">
-            <uc4:Footerbar ID="footerbar" runat="server" />
         </div>
     </div>
     </form>

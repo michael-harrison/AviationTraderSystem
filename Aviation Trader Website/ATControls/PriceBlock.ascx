@@ -17,7 +17,7 @@
                             </td>
                         </tr>-->
             <tr>
-                <td style="width: 150px" class="contenttext right">
+                <td style="width: 150px" class="contenttext right_text">
                     Lines: &nbsp;
                 </td>
                 <td align="right" style="padding-right: 10px">
@@ -28,7 +28,7 @@
         </asp:Panel>
         <asp:Panel ID="displayPanel" runat="server">
             <tr>
-                <td style="width: 150px" class="contenttext right">
+                <td style="width: 150px" class="contenttext right_text">
                     Computed size: &nbsp;
                 </td>
                 <td align="right" style="padding-right: 10px">
@@ -36,7 +36,7 @@
                 </td>
             </tr>
             <tr>
-                <td style="width: 150px" class="contenttext right">
+                <td style="width: 150px" class="contenttext right_text">
                     Size: &nbsp;
                 </td>
                 <td align="right" style="padding-right: 10px">
@@ -48,7 +48,7 @@
                 </td>
             </tr>
             <tr>
-                <td style="width: 150px" class="contenttext right">
+                <td style="width: 150px" class="contenttext right_text">
                     Colour: &nbsp;
                 </td>
                 <td align="right" style="padding-right: 10px">
@@ -59,7 +59,7 @@
         </asp:Panel>
         
         <tr>
-            <td style="width: 150px" class="contenttext right">
+            <td style="width: 150px" class="contenttext right_text">
                 Price: &nbsp;
             </td>
             <td align="right" style="padding-right: 10px">
@@ -67,7 +67,7 @@
             </td>
         </tr>
         <tr id="priceadjustedit" runat="server">
-            <td style="width: 150px" class="contenttext right">
+            <td style="width: 150px" class="contenttext right_text">
                 Price Adjustment: &nbsp;
             </td>
             <td align="right" style="padding-right: 10px">
@@ -77,7 +77,7 @@
             </td>
         </tr>
         <tr id="priceadjustread" runat="server">
-            <td style="width: 150px" class="contenttext right">
+            <td style="width: 150px" class="contenttext right_text">
                 Price Adjustment: &nbsp;
             </td>
             <td align="right" style="padding-right: 10px">
@@ -90,7 +90,7 @@
             </td>
         </tr>
         <tr>
-            <td style="width: 150px" class="contenttext right">
+            <td style="width: 150px" class="contenttext right_text">
                 Price for this instance: &nbsp;
             </td>
             <td align="right" style="padding-right: 10px">

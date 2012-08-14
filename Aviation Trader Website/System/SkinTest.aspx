@@ -13,10 +13,12 @@
            <asp:ServiceReference Path="~/System/Webservices.asmx" />
         </Services>
     </asp:ScriptManager>
-    <div id="container">
+    <div id="container_top">
         <div id="header">
-            <uc3:Headerbar ID="headerbar" ShowSearchBar="true" runat="server" />
+            <uc3:Headerbar ID="headerbar" runat="server" />
         </div>
+    </div>
+    <div id="container">
         <div id="wrapper">
             <div id="leftpanel">
                 LEFT PANEL<br />
@@ -36,9 +38,6 @@
                 <asp:TextBox ID="contentLength" Text="5" runat="server" /><br />
                 <asp:Label ID="content2" runat="server" />
             </div>
-        </div>
-        <div id="footer">
-            <uc4:Footerbar ID="footerbar" runat="server" />
         </div>
     </div>
     <table width="400px">

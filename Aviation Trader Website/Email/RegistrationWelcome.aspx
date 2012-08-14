@@ -68,7 +68,7 @@
                 <span class="storybody">Thank you for registering with Aviation Trader.<br /><br />
                 Your login name is your email address - <%=usr.EmailAddr %>, and your password is <%=Usr.Password%>.<br /><br />
                 Please record and keep these details in a safe place.<br /><br />
-                <a href="http://120.151.17.241">Click here </a>to go to the Aviation Trader web site.
+                <a href="http://www.aviationtrader.com.au">Click here </a>to go to the Aviation Trader web site.
             </td>
         </tr>
         <tr>

@@ -387,9 +387,13 @@ Partial Class RepeatAd
         '
         Try
             IO.File.Copy(src, dstn, False)
-        Catch ex As Exception
-            ButtonBar.Msg = "Warning - Some production files may be missing"
-        End Try
+		Catch ex As Exception
+			ButtonBar.Msg = _
+			 "Warning - Some production files may be missing.  " & _
+			 "Soruce: " & src & ", " & _
+			 "Destination: " & dstn & ", " & _
+			 "User: " & System.Web.HttpContext.Current.User.Identity.Name
+		End Try
 
     End Sub
 

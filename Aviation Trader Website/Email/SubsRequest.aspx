@@ -53,7 +53,7 @@
             </td>
         </tr>
         <tr>
-            <td width="200px" class="contenttext right">
+            <td width="200px" class="contenttext right_text">
                 Account Alias :
             </td>
             <td class="contentfield">
@@ -61,7 +61,7 @@
             </td>
         </tr>
         <tr>
-            <td class="contenttext right">
+            <td class="contenttext right_text">
                 Email address :
             </td>
             <td class="contentfield">
@@ -69,7 +69,7 @@
             </td>
         </tr>
         <tr>
-            <td class="contenttext right">
+            <td class="contenttext right_text">
                 Name :
             </td>
             <td class="contentfield">
@@ -77,7 +77,7 @@
             </td>
         </tr>
         <tr>
-            <td class="contenttext right">
+            <td class="contenttext right_text">
                 Phone :
             </td>
             <td class="contentfield">

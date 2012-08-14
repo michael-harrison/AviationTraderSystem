@@ -83,31 +83,6 @@ Partial Class HomeGuest
         '
         Loader.SelectedTab = 0
 
-        Loader.NextASPX = ATLib.Loader.ASPX.AboutHome
-        leftmenu.Add("About Us", Loader.Target, False)
-
-        Loader.NextASPX = ATLib.Loader.ASPX.Weboffer
-        leftmenu.Add("Our Web Product", Loader.Target, False)
-
-        Loader.NextASPX = ATLib.Loader.ASPX.AdHome
-        leftmenu.Add("Advertise", Loader.Target, False)
-
-        Loader.NextASPX = ATLib.Loader.ASPX.SubsHome
-        leftmenu.Add("Subscribe", Loader.Target, False)
-
-        Loader.NextASPX = ATLib.Loader.ASPX.ContactHome
-        leftmenu.Add("Contact Us", Loader.Target, False)
-
-        Loader.NextASPX = ATLib.Loader.ASPX.FAQ
-        leftmenu.Add("FAQ's", Loader.Target, False)
-
-        Loader.NextASPX = ATLib.Loader.ASPX.Testimonials
-        leftmenu.Add("Testimonials", Loader.Target, False)
-
-        Loader.NextASPX = ATLib.Loader.ASPX.Deadlines
-        leftmenu.Add("Deadlines", Loader.Target, False)
-
-
     End Sub
 
     Private Sub displayContent()

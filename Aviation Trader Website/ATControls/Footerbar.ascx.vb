@@ -20,9 +20,10 @@ Partial Class ATControls_Footerbar
         Me.EnableViewState = False
     End Sub
 
-    Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
-        initPopups()
-    End Sub
+	Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load
+		litCopyrightYear.Text = DateTime.Now.Year.ToString()
+		initPopups()
+	End Sub
 
     Private Sub initPopups()
 

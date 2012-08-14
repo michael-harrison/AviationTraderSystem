@@ -3,7 +3,7 @@
 <!DocType html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
-    <title>Avation Trader - Your total aviation marketplace</title>
+    <title>Aviation Trader - Your total aviation marketplace</title>
 
     <script type="text/javascript">
     var selectedPaymentType='0';
@@ -88,7 +88,7 @@
    
    function reset(fieldlabelID) {
          var label = document.getElementById(fieldlabelID);
-         label.className = "contenttext right";
+         label.className = "contenttext right_text";
   }
    
     
@@ -100,7 +100,7 @@ function val(fieldlabelID,fieldvalueID) {
             return false;
            }
            else {
-             label.className = "contenttext right";
+             label.className = "contenttext right_text";
              return true;
            }        
 }
@@ -108,7 +108,7 @@ function val(fieldlabelID,fieldvalueID) {
 
 function resetError(fieldlabelID) {
         var label = document.getElementById(fieldlabelID);
-        label.className = "contenttext right";
+        label.className = "contenttext right_text";
  }
 
 
@@ -129,10 +129,12 @@ function hideMe(obj) {
            <asp:ServiceReference Path="~/System/Webservices.asmx" />
         </Services>
     </asp:ScriptManager>
-    <div id="container">
+    <div id="container_top">
         <div id="header">
             <uc3:Headerbar ID="headerbar" runat="server" />
         </div>
+    </div>
+    <div id="container">
         <div id="wrapper">
             <div id="leftpanel">
                 <img src="../Graphics/AdThermo5.png" alt="step 5" />
@@ -169,7 +171,7 @@ function hideMe(obj) {
                         <td colspan="2">
                             <table border="0" style="border:solid 1px #c0c0c0"width="100%">
                                 <tr>
-                                    <td class="contenttext right" style="width: 200px;">
+                                    <td class="contenttext right_text" style="width: 200px;">
                                         PAYMENT METHOD : *
                                     </td>
                                     <td align="left">
@@ -181,7 +183,7 @@ function hideMe(obj) {
                                     <td colspan="2">
                                         <table id="CCPanel" border="0" width="100%" style="visibility: hidden">
                                             <tr>
-                                                <td id="CCNumberLabel" class="contenttext right" width="200px">
+                                                <td id="CCNumberLabel" class="contenttext right_text" width="200px">
                                                     Credit Card Number : *
                                                 </td>
                                                 <td align="left">
@@ -189,7 +191,7 @@ function hideMe(obj) {
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td id="CCVLabel" class="contenttext right">
+                                                <td id="CCVLabel" class="contenttext right_text">
                                                     Security Code : *
                                                 </td>
                                                 <td align="left">
@@ -198,7 +200,7 @@ function hideMe(obj) {
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td class="contenttext right">
+                                                <td class="contenttext right_text">
                                                     Expiration Date : *
                                                 </td>
                                                 <td align="left">
@@ -212,13 +214,13 @@ function hideMe(obj) {
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td  class="contenttext right">
+                                                <td  class="contenttext right_text">
                                                     BILLING ADDRESS:
                                                 </td>
                                                 <td></td>
                                             </tr>
                                             <tr>
-                                                <td id="FNameLabel" class="contenttext right">
+                                                <td id="FNameLabel" class="contenttext right_text">
                                                     First Name : *
                                                 </td>
                                                 <td align="left">
@@ -226,7 +228,7 @@ function hideMe(obj) {
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td id="LNameLabel" class="contenttext right">
+                                                <td id="LNameLabel" class="contenttext right_text">
                                                     Last Name : *
                                                 </td>
                                                 <td align="left">
@@ -234,7 +236,7 @@ function hideMe(obj) {
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td id="Addr1Label" class="contenttext right">
+                                                <td id="Addr1Label" class="contenttext right_text">
                                                     Address 1 : *
                                                 </td>
                                                 <td>
@@ -242,7 +244,7 @@ function hideMe(obj) {
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td id="Addr2Label" class="contenttext right">
+                                                <td id="Addr2Label" class="contenttext right_text">
                                                     Address 2 : &nbsp
                                                 </td>
                                                 <td>
@@ -250,7 +252,7 @@ function hideMe(obj) {
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td id="SuburbLabel" class="contenttext right">
+                                                <td id="SuburbLabel" class="contenttext right_text">
                                                     Suburb : *
                                                 </td>
                                                 <td>
@@ -258,7 +260,7 @@ function hideMe(obj) {
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td id="StateLabel" class="contenttext right">
+                                                <td id="StateLabel" class="contenttext right_text">
                                                     State : *
                                                 </td>
                                                 <td>
@@ -266,7 +268,7 @@ function hideMe(obj) {
                                                 </td>
                                             </tr>
                                             <tr>
-                                                <td id="PostcodeLabel" class="contenttext right">
+                                                <td id="PostcodeLabel" class="contenttext right_text">
                                                     Postcode : *
                                                 </td>
                                                 <td>
@@ -275,7 +277,7 @@ function hideMe(obj) {
                                             </tr>
                                             
                                             <tr>
-                                                <td id="CountryLabel" class="contenttext right">
+                                                <td id="CountryLabel" class="contenttext right_text">
                                                     Country : *
                                                 </td>
                                                 <td>
@@ -305,9 +307,6 @@ function hideMe(obj) {
                     </tr>
                 </table>
             </div>
-        </div>
-        <div id="footer">
-            <uc4:Footerbar ID="footerbar" runat="server" />
         </div>
     </div>
     </form>

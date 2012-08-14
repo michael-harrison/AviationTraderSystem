@@ -179,6 +179,9 @@ Partial Class ATControls_Headerbar
             Case Else : _loader.NextASPX = ATLib.Loader.ASPX.HomeRegistered
         End Select
 
+		membersHomeLink.NavigateUrl = _loader.Target
+
+
         topNode = New MenuNode()
         topNode.ID = CommonRoutines.Int2Hex(ATSystem.SysConstants.nullValue)
         topNode.Text = "HOME"
@@ -240,12 +243,12 @@ Partial Class ATControls_Headerbar
 
         If _slot.LoginLevel = Usr.LoginLevels.Guest Then
             _loader.NextASPX = ATLib.Loader.ASPX.Login
-            loginLink.Text = "SIGN IN OR REGISTER"
+			loginLink.Text = "Sign in or Register"
             loginLink.NavigateUrl = _loader.Target
             LoginWelcome.Text = ""
         Else
             _loader.NextASPX = ATLib.Loader.ASPX.Logout
-            loginLink.Text = "SIGN OUT"
+			loginLink.Text = "Sign out"
             loginLink.NavigateUrl = _loader.Target
             LoginWelcome.Text = "Welcome " & _slot.FullName
             '

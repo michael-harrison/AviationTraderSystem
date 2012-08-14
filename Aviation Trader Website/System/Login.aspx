@@ -3,7 +3,7 @@
 <!DocType html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head id="Head1" runat="server">
-    <title>Avation Trader - Your total aviation marketplace</title>
+    <title>Aviation Trader - Your total aviation marketplace</title>
 </head>
 <body onload="resizePanels()">
     <form id="form1" runat="server">
@@ -12,10 +12,12 @@
            <asp:ServiceReference Path="~/System/Webservices.asmx" />
         </Services>
     </asp:ScriptManager>
-    <div id="container">
+    <div id="container_top">
         <div id="header">
             <uc3:Headerbar ID="headerbar" runat="server" />
         </div>
+    </div>
+    <div id="container">
         <div id="wrapper">
             <div id="leftpanel">
                 <uc2:LeftMenu ID="leftmenu" runat="server" />
@@ -33,18 +35,18 @@
                             </tr>
                             <tr>
                                 <td>
-                                    <table width="490px" cellpadding="10px" style="border: solid 1px #c0c0c0; border-collapse: collapse;" border="0">
+                                    <table id="login_form" width="490px" style="border: solid 1px #c0c0c0; border-collapse: collapse;" border="0">
                                         <tr>
-                                            <td class="contenttext right" style="width: 160px">
+                                            <td class="contenttext" style="width: 160px;text-align:right;padding:10px">
                                                 <span style="color: red">*&nbsp;</span>Email address :
                                             </td>
-                                            <td align='left'>
+                                            <td style="text-align:left">
                                                 <asp:TextBox CssClass="contentfield" ID="EmailBox" runat="server" /><br />
                                                 <asp:Label CssClass="contenttext error" ID="emailerror" runat="server" />
                                             </td>
                                         </tr>
                                         <tr>
-                                            <td class="contenttext right">
+                                            <td class="contenttext" style="width: 160px;text-align:right;padding:10px">
                                                 <span style="color: red">*&nbsp;</span>Password :
                                             </td>
                                             <td align='left'>
@@ -81,9 +83,6 @@
                     </ContentTemplate>
                 </asp:UpdatePanel>
             </div>
-        </div>
-        <div id="footer">
-            <uc4:Footerbar ID="footerbar" runat="server" />
         </div>
     </div>
     </form>

@@ -84,29 +84,6 @@ Partial Class HomeRegistered
                 Loader.NextASPX = ATLib.Loader.ASPX.SubsManager
                 leftmenu.Add("Manage My Subscription", Loader.Target, False)
 
-                Loader.NextASPX = ATLib.Loader.ASPX.AboutHome
-                leftmenu.Add("About Us", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.Weboffer
-                leftmenu.Add("Our Web Product", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.AdHome
-                leftmenu.Add("Advertise", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.SubsHome
-                leftmenu.Add("Subscribe", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.ContactHome
-                leftmenu.Add("Contact Us", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.FAQ
-                leftmenu.Add("FAQ's", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.Testimonials
-                leftmenu.Add("Testimonials", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.Deadlines
-                leftmenu.Add("Deadlines", Loader.Target, False)
 
             Case Usr.LoginLevels.Advertiser
                 Loader.NextASPX = ATLib.Loader.ASPX.NewAd
@@ -118,30 +95,6 @@ Partial Class HomeRegistered
                 Loader.NextASPX = ATLib.Loader.ASPX.AdManager
                 leftmenu.Add("Manage My Ads", Loader.Target, False)
 
-                Loader.NextASPX = ATLib.Loader.ASPX.AboutHome
-                leftmenu.Add("About Us", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.Weboffer
-                leftmenu.Add("Our Web Product", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.AdHome
-                leftmenu.Add("Advertise", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.SubsHome
-                leftmenu.Add("Subscribe", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.ContactHome
-                leftmenu.Add("Contact Us", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.FAQ
-                leftmenu.Add("FAQ's", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.Testimonials
-                leftmenu.Add("Testimonials", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.Deadlines
-                leftmenu.Add("Deadlines", Loader.Target, False)
-
 
             Case Usr.LoginLevels.Subscriber
 
@@ -151,58 +104,11 @@ Partial Class HomeRegistered
                 Loader.NextASPX = ATLib.Loader.ASPX.SubsManager
                 leftmenu.Add("Manage My Subscription", Loader.Target, False)
 
-                Loader.NextASPX = ATLib.Loader.ASPX.AboutHome
-                leftmenu.Add("About Us", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.Weboffer
-                leftmenu.Add("Our Web Product", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.AdHome
-                leftmenu.Add("Advertise", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.SubsHome
-                leftmenu.Add("Subscribe", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.ContactHome
-                leftmenu.Add("Contact Us", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.FAQ
-                leftmenu.Add("FAQ's", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.Testimonials
-                leftmenu.Add("Testimonials", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.Deadlines
-                leftmenu.Add("Deadlines", Loader.Target, False)
-
             Case Usr.LoginLevels.RegisteredReader
                 Loader.NextASPX = ATLib.Loader.ASPX.UserEditor1
                 leftmenu.Add("Manage My Profile", Loader.Target, False)
 
-                Loader.NextASPX = ATLib.Loader.ASPX.AboutHome
-                leftmenu.Add("About Us", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.Weboffer
-                leftmenu.Add("Our Web Product", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.AdHome
-                leftmenu.Add("Advertise", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.SubsHome
-                leftmenu.Add("Subscribe", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.ContactHome
-                leftmenu.Add("Contact Us", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.FAQ
-                leftmenu.Add("FAQ's", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.Testimonials
-                leftmenu.Add("Testimonials", Loader.Target, False)
-
-                Loader.NextASPX = ATLib.Loader.ASPX.Deadlines
-                leftmenu.Add("Deadlines", Loader.Target, False)
-        End Select
+		End Select
 
 
 
