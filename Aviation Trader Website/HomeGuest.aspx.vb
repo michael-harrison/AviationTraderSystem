@@ -54,7 +54,8 @@ Partial Class HomeGuest
         NewsRotator.currentnewsitemid = ATSystem.SysConstants.nullValue
 
         Page.EnableViewState = True
-        Response.Expires = 0                      'force page to always reload
+		Response.Expires = 0					  'force page to always reload
+		Response.Redirect("~/System/Login.aspx")
 
     End Sub
 

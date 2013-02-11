@@ -27,9 +27,24 @@ Partial Class Login
         sys = New ATSystem
         sys.Retrieve()
         
-        Loader = New Loader(Request.QueryString(0))
-        Dim slots As New Slots
-        Slot = slots.Retrieve(Loader.SlotID)
+		'
+		' firs time thru - no query string. Login as guest
+		'
+		If Request.QueryString.Count = 0 Then
+			Slot = New Slot
+			Dim X As System.Net.IPAddress = Net.IPAddress.Parse(Request.ServerVariables("REMOTE_ADDR"))
+			Slot.IPAddr = X.ToString
+			Slot.SessionID = Session.SessionID
+
+			Slot.Login(Constants.GuestName, Constants.GuestPassword)
+			Loader = New Loader
+			Loader.SlotID = Slot.ID
+		Else
+			Loader = New Loader(Request.QueryString(0))
+			Dim slots As New Slots
+			Slot = slots.Retrieve(Loader.SlotID)
+
+		End If
 
         Page.Theme = Slot.skin
         headerbar.Slot = Slot
