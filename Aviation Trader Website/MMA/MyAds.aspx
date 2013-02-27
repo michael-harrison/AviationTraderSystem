@@ -55,7 +55,7 @@
                                             <td style="width: 475px">
                                                 <uc20:AdReader ID="AdReader" Ad="<%#container.dataitem %>" runat="server" />
                                             </td>
-                                            <td>
+                                            <td style="vertical-align:top">
                                                 <table width="100%" style="background: #eaeaea; border: solid 1px #c0c0c0; border-collapse: collapse">
                                                     <tr>
                                                         <td align="center" style="background: white; padding: 5px">

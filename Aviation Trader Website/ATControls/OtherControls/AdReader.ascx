@@ -6,7 +6,7 @@
                 <asp:Image ID="BasicPic" Style="width: 150px;" runat="server" />
             </td>
             <td style="vertical-align: top">
-                <div style="background: white; height: 90px; overflow: hidden">
+                <div style="background: white; height: 160px; overflow: hidden">
                     <asp:Label ID="BasicKeyWords" Style="font-weight: bold; color: black" runat="server" />
                     <div style="float: right">
                         <asp:Label ID="BasicItemPrice" Style="font-weight: bold; color: black" runat="server" />
