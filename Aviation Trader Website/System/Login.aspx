@@ -84,6 +84,7 @@
                 </asp:UpdatePanel>
             </div>
         </div>
+        <uc4:Footerbar ID="footerbar" runat="server" />
     </div>
     </form>
 </body>

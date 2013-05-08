@@ -15,8 +15,8 @@
       </ul></div>
 <div class="menu">        
 <ul id="menu-lower-navigation" class="nav">
-    <li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 menu-item-74" style="width:180px"><asp:HyperLink ID="membersHomeLink"  enableviewstate="false" runat="server" Text="Members Home" /></li>
-    <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><div style="padding-right:550px;"><asp:HyperLink ID="loginLink"  enableviewstate="false" runat="server" /></div></li>
+    <li id="menu-item-74" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2 menu-item-74" style="width:72px"><a href="http://aviationtrader.ntechhosting.com/">Home</a><!--<asp:HyperLink ID="membersHomeLink"  enableviewstate="false" runat="server" Text="Member's Home" />--></li>
+    <li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><div style="padding-right:650px;"><asp:HyperLink ID="loginLink"  enableviewstate="false" runat="server" /></div></li>
 </ul></div>
     </nav>
 </header>

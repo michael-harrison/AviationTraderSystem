@@ -36,10 +36,7 @@ Partial Class Logout
         headerbar.SelectedCatID = ATSystem.SysConstants.nullValue
 
         Page.EnableViewState = False
-        Response.Expires = 0                      'force page to always reload
-
-
-
+        Response.Redirect("http://www.aviationtrader.com.au", False)
     End Sub
 
     Protected Sub Page_Load(ByVal sender As Object, ByVal e As System.EventArgs) Handles Me.Load

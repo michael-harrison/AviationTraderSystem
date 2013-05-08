@@ -65,17 +65,6 @@ function popup(url,windowname) {
 }
 </script>
 
-<table border="0" style="width: 100%;" cellpadding="5">
-    <!-- Note the 'a' parameter in the following calls means overwrite the same popup window. If you want to display
-multiple popups simultaneously, choose different params -->
-    <tr>
-        <td align="left" width="450px" valign="top">
-            Copyright <asp:Literal ID="litCopyrightYear" runat="server"></asp:Literal> Aviation Trader | <span id ="termsofuse" style="cursor: pointer;"  runat="server">Terms of Use</span> | <span id="privacypolicy" style="cursor: pointer;" runat="server">Privacy Policy</span>
-        </td>
-        
-    </tr>
-</table>
-
 <!-- START Nielsen Online SiteCensus V6.0 -->
 <!-- COPYRIGHT 2009 Nielsen Online -->
 

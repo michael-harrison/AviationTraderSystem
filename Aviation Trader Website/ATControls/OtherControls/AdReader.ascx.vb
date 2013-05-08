@@ -50,7 +50,8 @@ Partial Class ATControls_AdReader
         BasicPic.ImageUrl = Ad.THBURL
         BasicKeyWords.Text = Ad.KeyWords
         BasicItemPrice.Text = Ad.ItemPrice
-        BasicText.Text = Ad.Text
+        BasicText.Text = Ad.Summary
+
     End Sub
 
 
